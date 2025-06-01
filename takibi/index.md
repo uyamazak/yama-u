@@ -15,7 +15,7 @@ title: 焚き火
 </ul>
 
 <script setup>
-import { data as posts} from '../takibi.data.mjs'
+import { data as posts } from '../takibi.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import { formatDate } from '../utils.mjs'
