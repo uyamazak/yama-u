@@ -19,9 +19,10 @@ hero:
       link: https://www.youtube.com/@uyamazak
 
 features:
-  - title: 焚火の書きもの
+  - title: 🔥焚火の書きもの
     details: 薪自作焚火キャンプ
     link: /takibi/
+  
 
 ---
 ### 新着

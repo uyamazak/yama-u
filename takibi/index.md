@@ -1,6 +1,7 @@
 ---
 title: 焚き火
 published: 2025-05-31
+lastUpdated: 2025-05-31
 ---
 
 # {{ $frontmatter.title }}
