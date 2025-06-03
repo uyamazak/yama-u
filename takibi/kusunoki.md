@@ -1,6 +1,7 @@
 ---
 title: クスノキの枝
 lastUpdated: 2025-06-01
+published: 2025-06-01
 ---
 # {{ $frontmatter.title }}
 

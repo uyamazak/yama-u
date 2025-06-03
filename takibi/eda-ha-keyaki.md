@@ -1,6 +1,7 @@
 ---
 title: けやきの枝からはじまった焚き火
 lastUpdated: 2025-05-31
+published: 2025-05-31
 ---
 # {{ $frontmatter.title }}
 
@@ -41,3 +42,5 @@ lastUpdated: 2025-05-31
 
 燃え終わるとほぼ灰になるが、下の穴がつまってくると燃えにくくはなってくる。
 
+
+<iframe width="458" height="815" src="https://www.youtube.com/embed/I9uvCyU070s" title="二次燃焼ストーブで枝を燃やす＠坂田ヶ池総合公園キャンプ場" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

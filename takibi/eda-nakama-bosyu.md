@@ -1,6 +1,7 @@
 ---
 title: 枝拾い＆焚き火仲間募集中
 lastUpdated: 2025-06-01
+published: 2025-06-01
 ---
 # {{ $frontmatter.title }}
 
@@ -12,7 +13,6 @@ lastUpdated: 2025-06-01
 
 子持ちのおっさんなので予定に自由が少ないのが難点。
 
-連絡は
-[X](https://twitter.com/uyamazak)のDMか[YouTube](https://www.youtube.com/@uyamazak)のメールまで。
+連絡は[YouTube](https://www.youtube.com/@uyamazak)のメールまで。
 
 
