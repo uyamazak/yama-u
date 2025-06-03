@@ -1,0 +1,27 @@
+---
+title: 夾竹桃（キョウチクトウ）は薪にしちゃだめ
+lastUpdated: 2025-06-03
+published: 2025-06-03
+---
+# {{ $frontmatter.title }}
+
+枝から薪をつくりはじめて、一番気を付けたのが毒のある木。
+
+特に猛毒の夾竹桃（キョウチクトウ）は拾っても燃やしてもいけない。
+
+燃やして出る煙にも毒、折って出てくる汁にも毒、腐葉土にしても1年は毒。捨てるときにも自治体によっては特別なゴミの出し方を要求したりする。
+
+<iframe width="458" height="815" src="https://www.youtube.com/embed/aNb9pAxHljU" title="猛毒キョウチクトウ　焚火の天敵" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+見分け方は、名前のように竹のような形をした葉っぱときれいな花、あと株立ち（細い木が複数同じところから生える）の木であること。
+
+強い木だけあり、荒川河川敷にもあるし、庭木にもなってるし、公園にもよく植えられている。
+
+成長も早いのか剪定されて捨てられているのを荒川で見つけて拾いかけたこともある。近くに夾竹桃があったのと、葉が残ってたのでGoogleレンズで確認し事なきを得た。
+
+詳しくはWikipediaの[キョウチクトウ](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%81%E3%82%AF%E3%83%88%E3%82%A6)
+
+薬屋のひとりごとのアニメ第2話でも、兵士たちがその辺の枝を箸にして倒れる話がある。これも名前は出さなかったが夾竹桃だったのでは？と思った。
+
+
+

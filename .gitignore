@@ -2,3 +2,5 @@ node_modules/*
 .firebaserc
 .vitepress
 .firebase
+.vscode
+*.log
