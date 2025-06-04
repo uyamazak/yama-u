@@ -3,7 +3,6 @@ title: 枝拾い＆焚き火仲間募集中
 lastUpdated: 2025-06-01
 published: 2025-06-01
 ---
-# {{ $frontmatter.title }}
 
 埼玉県、千葉県で枝拾いや焚き火をする仲間を募集してます。
 

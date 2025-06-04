@@ -9,10 +9,10 @@ hero:
   image:
     light: /img/photo-yakan.jpg
     dark: /img/photo-ame.jpg
-    alt: 枝焚き火と薬缶
+    alt: 枝焚火と薬缶
   actions:
     - theme: brand
-      text: 枝仲間募集
+      text: 枝焚火仲間募集
       link: /takibi/eda-nakama-bosyu.html
     - theme: alt
       text: YouTube

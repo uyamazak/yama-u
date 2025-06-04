@@ -3,7 +3,6 @@ title: 焚き火ケトルは2リットル
 lastUpdated: 2025-06-02
 published: 2025-06-02
 ---
-# {{ $frontmatter.title }}
 
 焚き火のときには基本ケトルをずっと火にかけている。
 

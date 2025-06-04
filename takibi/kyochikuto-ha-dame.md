@@ -3,7 +3,6 @@ title: 夾竹桃（キョウチクトウ）は薪にしちゃだめ
 lastUpdated: 2025-06-03
 published: 2025-06-03
 ---
-# {{ $frontmatter.title }}
 
 枝から薪をつくりはじめて、一番気を付けたのが毒のある木。
 
