@@ -1,10 +1,10 @@
 ---
-title: BUNDOKの焚火台 Lotus+ ロータスプラスはよいぞ ＆ 新しい焚き火台ほしいぞ
-lastUpdated: 2025-06-03
+title: BUNDOKの焚火台 Lotus+はよいぞ ＆ 新しい焚き火台ほしいぞ
+lastUpdated: 2025-06-04
 published: 2025-06-03
 ---
 
-現在メインの焚き火台として使っているのが、BUNDOKの焚火台 Lotus+ ロータスプラス。
+現在メインの焚火台として使っているのが、BUNDOKの Lotus+ （ロータスプラス）。
 
 いろいろ調べて悩んで買ったが、よい。
 

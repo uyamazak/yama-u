@@ -4,23 +4,23 @@ layout: home
 
 hero:
   name: やまゆー
-  text: 枝と焚火と作業服
-  tagline: VitePressでつくる駄文サイト
+  text: 枝と焚火とキャンプ
+  tagline: 枝拾いblog
   image:
-    light: /img/photo-yakan.jpg
-    dark: /img/photo-ame.jpg
+    light: /img/photo-yakan.webp
+    dark: /img/photo-yakan-ame.webp
     alt: 枝焚火と薬缶
   actions:
     - theme: brand
-      text: 枝焚火仲間募集
-      link: /takibi/eda-nakama-bosyu.html
-    - theme: alt
-      text: YouTube
-      link: https://www.youtube.com/@uyamazak
+      text: YouTubeチャンネル
+      link: https://www.youtube.com/@yama-u-eda
 
+    - theme : alt
+      text: 枝焚火オフメンバー募集
+      link: /takibi/eda-nakama-bosyu.html
 features:
   - title: 🔥焚火の書きもの
-    details: 薪自作焚火キャンプ
+    details: 枝でつくった薪から始まった焚き火に関することを書いています。
     link: /takibi/
   
 
@@ -31,13 +31,13 @@ features:
   <li v-for="post of posts">
     <a :href="post.url">
       {{ post.frontmatter.title }}
-      {{ formatDate(post.frontmatter.lastUpdated) }}
+      <span class="post-date">{{ formatDate(post.frontmatter.published) }}</span>
     </a>
   </li>
 </ul>
 
 <script setup>
-import { data } from './takibi.data.mjs'
+import { data } from './takibi/index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import { formatDate } from './utils.mjs'
@@ -55,3 +55,10 @@ const posts = computed(() => {
   return sliced
 })
 </script>
+
+<style>
+.post-date {
+  color: var(--vp-c-text-muted);
+  font-size: 0.8em;
+}
+</style>

@@ -7,14 +7,14 @@ lastUpdated: 2025-05-31
 <ul>
   <li v-for="post of childs">
     <a :href="post.url">    
-      {{ formatDate(post.frontmatter.published) }}
       {{ post.frontmatter.title }}
+      <span class="post-date">{{ formatDate(post.frontmatter.published) }}</span>
     </a>
   </li>
 </ul>
 
 <script setup>
-import { data as posts } from '../takibi.data.mjs'
+import { data as posts } from './index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import { formatDate } from '../utils.mjs'
@@ -29,3 +29,8 @@ const childs = computed(() => {
   })
 })
 </script>
+<style>
+.post-date {
+  font-size: 0.8em;
+}
+</style>

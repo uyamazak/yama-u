@@ -16,6 +16,7 @@ published: 2025-05-31
 <iframe width="422" height="751" src="https://www.youtube.com/embed/po-cIX5zQWc" title="公園のケヤキの枝で薪作り #薪" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 二次燃焼ウッドストーブ
+
 細い枝だけの焚き火はなかなかヒットしないが、ウッドストーブというジャンルがあるのを知った。
 
 ウッドストーブであれば小型で落ち葉や小枝だけでも燃やせ、さらに二次燃焼という仕組みで火力も強いらしい。

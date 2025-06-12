@@ -1,17 +1,21 @@
 ---
-title: 枝拾い＆焚き火仲間募集中
-lastUpdated: 2025-06-01
+title: 枝で焚火オフ会メンバー募集
+lastUpdated: 2025-06-04
 published: 2025-06-01
 ---
 
-埼玉県、千葉県で枝拾いや焚き火をする仲間を募集してます。
+埼玉県戸田市の彩湖道満グリーンパークでいっしょに焚火をしませんか。
 
-埼玉県だと川口市、戸田市、川越市あたりが活用範囲でよく彩湖道満グリーンパークで焚き火をしています。
+土日休日に現地集合、現地解散でただ近くで焚火をするだけです。
 
-千葉県だと地元の成田市周辺が活動範囲です。
+枝薪はたくさんあるので必要な方に差し上げます。
 
-子持ちのおっさんなので予定に自由が少ないのが難点。
+予定や天気をみて行けそうな日を連絡します。
 
-連絡は[YouTube](https://www.youtube.com/@uyamazak)のメールまで。
+連絡は[やまゆーYouTubeチャンネル](https://www.youtube.com/@yama-u-eda)に記載のあるメールアドレスか
+
+[枝で焚火オフ会申し込みGoogleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScZULbUV8TT8dPeRIs1EOGr2-RXA0YEQkC1mRKtD4ucNwqiZg/viewform?usp=preview)
+までお願いします。
+
 
 
