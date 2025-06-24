@@ -5,7 +5,7 @@ layout: home
 hero:
   name: やまゆー
   text: 枝と焚火とキャンプ
-  tagline: 枝拾いblog
+  tagline: 拾った枝で足るを知る
   image:
     light: /img/photo-yakan.webp
     dark: /img/photo-yakan-ame.webp
@@ -15,13 +15,14 @@ hero:
       text: YouTubeチャンネル
       link: https://www.youtube.com/@yama-u-eda
 
-    - theme : alt
-      text: 枝焚火オフメンバー募集
-      link: /takibi/eda-nakama-bosyu.html
 features:
-  - title: 🔥焚火の書きもの
-    details: 枝でつくった薪から始まった焚き火に関することを書いています。
+  - title: 🔥焚火とキャンプ
+    details: 拾った枝の焚き火に関することを書いています。
     link: /takibi/
+
+  - title: 📺️アニメ
+    details: アニメの感想やおすすめを書いています。
+    link: /anime/
   
 
 ---
