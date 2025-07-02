@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: やまゆー
-  text: 枝と焚火とキャンプ
+  text: 枝と焚火とテキスト
   tagline: 拾った枝で足るを知る
   image:
     light: /img/photo-yakan.webp
@@ -16,32 +16,32 @@ hero:
       link: https://www.youtube.com/@yama-u-eda
 
 features:
-  - title: 🔥焚火とキャンプ
-    details: 拾った枝の焚き火に関することを書いています。
+  - title: 🔥枝と焚火
+    details: 枝を拾って焚き火のこと
     link: /takibi/
 
   - title: 📺️アニメ
-    details: アニメの感想やおすすめを書いています。
+    details: アニメのこと
     link: /anime/
-  
+
+  - title: 📖ポエム
+    details: いわゆるポエム
+    link: /poem/
+
+  - title: 🍉季節 
+    details: 季節のこと
+    link: /kisetsu/
 
 ---
 ### 新着
 
-<ul>
-  <li v-for="post of posts">
-    <a :href="post.url">
-      {{ post.frontmatter.title }}
-      <span class="post-date">{{ formatDate(post.frontmatter.published) }}</span>
-    </a>
-  </li>
-</ul>
+<PostsList :posts="posts" />
 
 <script setup>
-import { data } from './takibi/index.data.mjs'
+import { data } from './index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
-import { formatDate } from './utils.mjs'
+import PostsList from './.vitepress/posts-list.vue'
 
 const { frontmatter } = useData()
 const posts = computed(() => {
@@ -52,14 +52,7 @@ const posts = computed(() => {
     return new Date(b.frontmatter.published) - new Date(a.frontmatter.published)
   })
 
-  const sliced = sorted.slice(0, 5)
+  const sliced = sorted.slice(0, 12)
   return sliced
 })
 </script>
-
-<style>
-.post-date {
-  color: var(--vp-c-text-muted);
-  font-size: 0.8em;
-}
-</style>

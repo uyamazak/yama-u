@@ -1,7 +1,8 @@
 ---
-title: アニメ
-published: 2025-06-24
-lastUpdated: 2025-06-24
+title: ポエム
+published: 2025-07-02
+lastUpdated: 2025-07-02
+
 ---
 
 <PostsList :posts="childs" />
@@ -22,3 +23,4 @@ const childs = computed(() => {
   })
 })
 </script>
+
