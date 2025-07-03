@@ -3,14 +3,17 @@
 layout: home
 
 hero:
-  name: やまゆー
-  text: 枝と焚火とテキスト
-  tagline: 拾った枝で足るを知る
+  name: ヤマユー
+  text: 拾った枝で足るを知る
+  tagline: 令和生まれのテキストサイト
   image:
     light: /img/photo-yakan.webp
     dark: /img/photo-yakan-ame.webp
     alt: 枝焚火と薬缶
   actions:
+    - theme: alt
+      text:  このサイトについて
+      link: /about/
     - theme: brand
       text: YouTubeチャンネル
       link: https://www.youtube.com/@yama-u-eda
@@ -27,10 +30,6 @@ features:
   - title: 📖ポエム
     details: いわゆるポエム
     link: /poem/
-
-  - title: 🍉季節 
-    details: 季節のこと
-    link: /kisetsu/
 
 ---
 ### 新着
