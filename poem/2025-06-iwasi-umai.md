@@ -24,7 +24,7 @@ https://www.asahi.com/articles/AST6V1Q6MT6VUDCB00DM.html
 
 川口駅前のそごうの跡地に開業したららテラス川口にも、魚の北辰という鮮魚店が入った。
 
-魚の北辰 | ららテラス川口　　
+魚の北辰 | ららテラス川口  
 https://mitsui-shopping-park.com/lalat-kawaguchi/shopguide/3019969.html
 
 キャンプ用の保冷剤を持ってイワシを買いに行ったところ、まるまる太ったイワシ4匹で350円だった。

@@ -6,6 +6,8 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "deploy": "vitepress build && firebase deploy"
+    "deploy": "vitepress build && firebase deploy",
+    "d": "vitepress build && firebase deploy",
+    "g": "node scripts/generate-post.mjs"
   }
 }

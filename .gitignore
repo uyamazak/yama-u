@@ -1,6 +1,7 @@
 node_modules/*
 .firebaserc
-.vitepress
+.vitepress/cache
+.vitepress/dist
 .firebase
 .vscode
 *.log

@@ -5,7 +5,7 @@ layout: home
 hero:
   name: ヤマユー
   text: 拾った枝で足るを知る
-  tagline: 令和生まれのテキストサイト
+  tagline: 令和最新版テキストサイト
   image:
     light: /img/photo-yakan.webp
     dark: /img/photo-yakan-ame.webp
