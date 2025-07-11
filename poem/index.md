@@ -12,15 +12,10 @@ import { data as posts } from './index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import PostsList from '../.vitepress/posts-list.vue'
-
+import { sortPosts } from '../utils.mjs'
 const { frontmatter } = useData()
 const childs = computed(() => {
-  const filterd = posts.filter(post => {
-    return post.frontmatter.title !== frontmatter.value.title
-  })
-  return filterd.sort((a, b) => {
-    return new Date(b.frontmatter.published) - new Date(a.frontmatter.published)
-  })
+  return sortPosts(posts, frontmatter)
 })
 </script>
 

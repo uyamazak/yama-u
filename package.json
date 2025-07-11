@@ -8,6 +8,7 @@
     "docs:preview": "vitepress preview",
     "deploy": "vitepress build && firebase deploy",
     "d": "vitepress build && firebase deploy",
+    "dev": "vitepress dev",
     "g": "node scripts/generate-post.mjs"
   }
 }

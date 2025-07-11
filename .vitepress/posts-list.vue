@@ -1,6 +1,6 @@
 <template>
 <ul>
-  <li v-for="post of posts">
+  <li v-for="post of posts" :key="post.url">
     <a :href="post.url" class="post-link">
       <span class="post-date">{{ formatDate(post.frontmatter.published) }}</span>
       <span class="title">{{ post.frontmatter.title }}</span>
@@ -21,7 +21,7 @@ const props = defineProps({
 <style scoped>
 .post-link {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   text-decoration: none;
   margin-bottom: 0.5em;
 }
@@ -29,13 +29,12 @@ const props = defineProps({
   background-color: #eee;
 }
 .post-date {
+  flex-shrink: 0; /* 日付部分が縮まないようにする */
   font-size: 0.8em;
-  margin-right: 0.5em;
+  margin-right: 1em;
   color: #888;
 }
 .title {
   text-decoration: underline;
 }
-
-
 </style>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yama-u.web.app/sitemap.xml
+Sitemap: https://yama-u.com/sitemap.xml

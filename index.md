@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: ヤマユー
-  text: 拾った枝で足るを知る
-  tagline: 令和最新版テキストサイト
+  name: ヤマゆー
+  text: 令和最新版テキストサイト
+  tagline: 拾った枝で足るを知る
   image:
     light: /img/photo-yakan.webp
     dark: /img/photo-yakan-ame.webp
@@ -13,14 +13,14 @@ hero:
   actions:
     - theme: alt
       text:  このサイトについて
-      link: /about/
+      link: /about.html
     - theme: brand
       text: YouTubeチャンネル
       link: https://www.youtube.com/@yama-u-eda
 
 features:
   - title: 🔥枝と焚火
-    details: 枝を拾って焚き火のこと
+    details: 枝拾って焚き火のこと
     link: /takibi/
 
   - title: 📺️アニメ
@@ -41,17 +41,14 @@ import { data } from './index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import PostsList from './.vitepress/posts-list.vue'
-
+import { sortPosts } from './utils.mjs'
 const { frontmatter } = useData()
+const MAX_POSTS = 20
 const posts = computed(() => {
-  const filterd = data.filter(post => {
-    return post.url.endsWith('.html')
-  })
-  const sorted = filterd.sort((a, b) => {
-    return new Date(b.frontmatter.published) - new Date(a.frontmatter.published)
-  })
-
-  const sliced = sorted.slice(0, 12)
-  return sliced
+  const all = sortPosts(data, frontmatter)
+  return all.filter(post => {
+    return !post.url.endsWith('/') 
+  }).slice(0, MAX_POSTS)
 })
+
 </script>

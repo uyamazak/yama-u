@@ -4,7 +4,7 @@ import { h } from 'vue'
 
 import Breadcrumbs  from '../breadcrumbs.vue'
 import PageHeading from '../page-heading.vue'
-//import sidebarItems from '../sidebar-items.vue'
+import PostDate from '../post-date.vue'
 
 export const Theme: ThemeConfig = {
   extends: DefaultTheme,
@@ -12,8 +12,8 @@ export const Theme: ThemeConfig = {
     return h(DefaultTheme.Layout, null, {
       // Add breadcrumb above document
       'doc-top': () => h(Breadcrumbs), 
-      'doc-before': () => h(PageHeading),
-      //'sidebar-nav-after': () => h(sidebarItems)
+      'doc-before': () => [h(PageHeading), h(PostDate)],
+
     })
   }
 }

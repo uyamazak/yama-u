@@ -8,7 +8,7 @@ published: 2025-07-03
 
 13話が最終回でちょっと寂しいなぁと思いきやOPがいつもと違い、なんだと思ったら2クール連続放送だった。思えば12話はちょっと最終回っぽさもあった。
 
-<iframe width="980" height="551" src="https://www.youtube.com/embed/2PwcqtEZ2-4" title="TVアニメ「宇宙人ムームー」新PV｜TVアニメ「宇宙人ムームー」が第2クール突入！！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/2PwcqtEZ2-4" title="TVアニメ「宇宙人ムームー」新PV｜TVアニメ「宇宙人ムームー」が第2クール突入！！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 TVアニメ「宇宙人ムームー」
