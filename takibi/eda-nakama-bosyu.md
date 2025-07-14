@@ -12,9 +12,9 @@ published: 2025-06-01
 
 予定や天気をみて行けそうな日を連絡します。
 
-連絡は[やまゆーYouTubeチャンネル](https://www.youtube.com/@yama-u-eda)に記載のあるメールアドレスか
+連絡は[やまユーYouTubeチャンネル](https://www.youtube.com/@yama-u-eda)に記載のあるメールアドレスか
 
-[枝で焚火オフ会申し込みGoogleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScZULbUV8TT8dPeRIs1EOGr2-RXA0YEQkC1mRKtD4ucNwqiZg/viewform?usp=preview)
+[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLScZULbUV8TT8dPeRIs1EOGr2-RXA0YEQkC1mRKtD4ucNwqiZg/viewform?usp=preview)
 までお願いします。
 
 

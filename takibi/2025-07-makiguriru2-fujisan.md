@@ -1,0 +1,37 @@
+---
+title: UNIFRAME 40周年記念薪グリルⅡ 富士山ver.を発売日に買った
+lastUpdated: 2025-07-12 
+published: 2025-07-12
+---
+
+<iframe width="458" height="815" src="https://www.youtube.com/embed/vgo0URTEMlk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+今日は2025/7/12。
+
+待ちに待った薪グリルの40週年限定版の発売日になったので、越谷レイクタウンのWILD-1で買ってきた。
+
+[40周年記念薪グリルⅡ　富士山ver.](https://www.uniflame.co.jp/15499)
+
+ちょうどWILD-1は会員限定全品10％オフのサマーセールをやっていて、10％オフ、1500円引きで買うことができたが、せっかくなので500円で売っていた同じく40周年の記念シールも買った。
+
+会員様ご優待　サマーセール｜キャンペーン情報｜アウトドアライフストア　WILD-1  
+https://www.wild1.co.jp/campaign/summer_sale/
+
+電車代で約1000円かかったが、子供もWILD-1や駅前広場で十分遊び、WILD-1隣のかっぱ寿司も食べて満喫できたので元は取れている。
+
+失敗したのが、箱が想像よりデカくてリュックに入らず、手提げビニールで持ち帰ったこと。段ボール込でおそらく4キロはあるためビニールが伸びて細くなり手に食い込んで痛かった。
+
+早速家で組み立ててみた。ロストルが想像以上に極太だが、45センチで耐荷重10Kgを支えるには必要な太さなのだろう。
+
+風防として機能する形状だけに、デメリットとして風の通りは確かに悪そうだ。
+
+ロストルの下も浅いので、燃え方が悪いようであれば、同じくユニフレームのメタル薪が必要になるかもしれない。
+
+メタル薪  
+https://www.uniflame.co.jp/product/665107
+
+
+脇にセットできる小物やトングを置けるユニセラサイドトレーも欲しくなり、UNIFRAMEの策略にハマってしまっているようだ。
+
+ユニセラサイドトレー  
+https://www.uniflame.co.jp/product/615188

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: ヤマゆー
+  name: やまユー
   text: 令和最新版テキストサイト
   tagline: 拾った枝で足るを知る
   image:

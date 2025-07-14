@@ -1,9 +1,7 @@
-
-
 <template>
   <ul class="breadcrumbs">
     <li><a href="/">🏚️</a></li>
-    <li v-if="frontmatter.parent">
+    <li v-if="frontmatter.parent && frontmatter.parent.title !== frontmatter.title">
       <a :href="frontmatter.parent.path">{{ frontmatter.parent.title }}</a>
     </li>
     <li v-if="frontmatter.title">{{ frontmatter.title }}</li> 
@@ -39,5 +37,4 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
 const { frontmatter } = useData()
-
 </script>
