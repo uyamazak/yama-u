@@ -9,7 +9,8 @@ published: 2025-06-30
 結論としては、暑い日（最高気温32度）でも木陰で汗だくで楽しく焚火修行ができた。
 
 ちょこちょこ撮った動画を切り貼りしただけのいつものショート動画。
-<iframe width="458" height="815" src="https://www.youtube.com/embed/k2RPTDiox-k" title="最高気温32度の彩湖で汗だく焚火 #焚き火" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<YouTube id="k2RPTDiox-k" title="最高気温32度の彩湖で汗だく焚火 #焚き火" aspect="9:16" />
 
 ## 予約不要の彩湖道満グリーンパーク
 

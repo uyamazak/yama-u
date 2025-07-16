@@ -8,7 +8,7 @@ published: 2025-06-03
 
 いろいろ調べて悩んで買ったが、よい。
 
-<iframe width="618" height="348" src="https://www.youtube.com/embed/YZfYG6wQMKo" title="拾った欅と柳の枝でBUNDOK Lotus+を使って坂田ヶ池総合公園キャンプ場で焚き火 #枝薪 #焚き火 #焚き火台" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="YZfYG6wQMKo" title="拾った欅と柳の枝でBUNDOK Lotus+を使って坂田ヶ池総合公園キャンプ場で焚き火 #枝薪 #焚き火 #焚き火台" aspect="16:9" />
 
 
 ## 価格がよい

@@ -14,7 +14,7 @@ published: 2025-06-01
 
 特に古いものは虫食い穴もあるが、喰われやすいヤナギや桑の木と比べると穴も小さく少ない。相当虫にとってはおいしくない木なんだろう。
 
-<iframe width="422" height="751" src="https://www.youtube.com/embed/-jckrB9mTjk" title="クスノキの枯れ枝で薪作り #焚き火 #無料薪" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="-jckrB9mTjk" title="クスノキの枯れ枝で薪作り #焚き火 #無料薪" aspect="9:16" />
 
 ケヤキと比べると気乾比重は軽く0.5程度。一般的に太いほど重くなるので手に入る枝だと0.4前後だろうか。水にも強いらしく昔は船の材料としても使われていたらしい。
 

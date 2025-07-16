@@ -1,7 +1,5 @@
-import { defineConfig, createContentLoader, ContentData, PageData } from 'vitepress'
-
-
-
+import { defineConfig, createContentLoader } from 'vitepress'
+import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd } from './utils.mts'
 // https://vitepress.dev/reference/site-config
 const categories = [
   { text: '🔥焚き火', link: '/takibi/' },
@@ -10,92 +8,23 @@ const categories = [
 ]
 const baseUrl = 'https://yama-u.com'
 const siteTitle = 'やまユー'
+const authorName = 'やまゆう'
 const gaId = 'G-1QB9QSHRS0'
+const defaultImg = `${baseUrl}/img/article-default.webp`
 
-type PostMetaWithIndex = {
-  title: string;
-  url: string;
-  date: string;
-  order: number;
-  isIndex: boolean;
-}
-const getOrderdPosts = (contents: ContentData[]): PostMetaWithIndex[] => {
-  const formatted = contents.map((content) => {
-    return {
-      title: content.frontmatter.title,
-      url: content.url,
-      date: content.frontmatter.published
-    }
-  })
-  const sorted = formatted.sort((a, b) => {
-    if (b.date === a.date) {
-      return b.url > a.url ? 1 : -1
-    }
-    return b.date > a.date ? -1 : 1
-  })
-
-  const withOrder = sorted.map((content, index) => {
-    return {
-      ...content,
-      order: index + 1,
-      isIndex: content.url.endsWith('/'),
-    }
-  })
-  return withOrder
-}
-
-const getNextAndPrevPost = (url: string, posts: PostMetaWithIndex[]): { prev: { text: string, link: string } | false, next: { text: string, link: string } | false } => {
-  const withoutIndexPosts = posts.filter(post => !post.isIndex);
-  const currentIndex = withoutIndexPosts.findIndex(post => post.url === url);
-  if (currentIndex === -1) {
-    return { prev: false, next: false };
-  }
-  const prevPost = currentIndex > 0 ? withoutIndexPosts[currentIndex - 1] : false;
-  const nextPost = currentIndex < withoutIndexPosts.length - 1 ? withoutIndexPosts[currentIndex + 1] : false;
-  return {
-    prev: prevPost ? { text: prevPost.title, link: prevPost.url } : false,
-    next: nextPost ? { text: nextPost.title, link: nextPost.url } : false
-  }
-}
-
-const breadCrumbsJson = (pageData: PageData, canonicalUrl: string) => {
-  const { frontmatter } = pageData
-  const items = [
-    {
-      '@type': 'ListItem',
-      position: 1,
-      name: `${siteTitle} ホーム`,
-      item: baseUrl
-    },
-  ]
-  if (frontmatter.parentPath) {
-    items.push({
-        '@type': 'ListItem',
-        position: 2,
-        name: frontmatter.parent.title,
-        item: `${baseUrl}${frontmatter.parent.path}`
-      })
-  }
-  if (frontmatter.title && frontmatter.title !== frontmatter.parent?.title) {
-    items.push({
-      '@type': 'ListItem',
-      position: items.length + 1,
-      name: frontmatter.title,
-      item: canonicalUrl
-    })
-  }
-  return {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: items
-  }
+const myConfig = {
+  siteTitle,
+  authorName,
+  baseUrl,
+  defaultImg,
+  categories,
 }
 
 export default async () => {
   return defineConfig({
     title: siteTitle,
-    titleTemplate: `令和最新版テキストサイト`,
-    description: "枝と焚火の令和最新版テキストサイト",
+    titleTemplate: `枝と焚火とアニメ`,
+    description: "枝と焚火とアニメの令和最新版テキストサイト",
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }],
       [
@@ -123,7 +52,7 @@ export default async () => {
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "${siteTitle}",
+            "name": "${authorName}",
             "url": "https://yama-u.com/author.html",
             "sameAs": [
                 "https://www.youtube.com/@yama-u-eda"
@@ -158,12 +87,11 @@ export default async () => {
       ],
       footer: {
         message: 'powered by VitePress',
-        copyright: `Copyright © 2025-present ${siteTitle} ( ﾟДﾟ)ﾊｧ?`
+        copyright: `Copyright © 2025-present ${authorName} ( ﾟДﾟ)ﾊｧ?`
       },
       logo: {
         src: '/img/logo.webp',
         alt: `${siteTitle}ロゴ`,
-        href: baseUrl
       },
     },
     sitemap: {
@@ -181,7 +109,8 @@ export default async () => {
         'link',
         { rel: 'canonical', href: canonicalUrl }
       ])
-      if (pageData.relativePath.includes('/')) {
+      const isCategoryPage = pageData.relativePath.endsWith('index.md')
+      if (!isCategoryPage) {
         const category = pageData.relativePath.split('/')[0]
         const categoryPath = `/${category}/*.md`
         const sameCategoryLoader = createContentLoader(categoryPath)
@@ -199,13 +128,22 @@ export default async () => {
           const categoryIndex = categoryIndexData[0]
           pageData.frontmatter.parent = { title: categoryIndex.frontmatter.title, path: categoryIndex.url }
         }
+
+        const articleSchema = articleJsonLd(pageData, canonicalUrl, myConfig)
+        pageData.frontmatter.head.push([
+          'script',
+          { type: 'application/ld+json' },
+          JSON.stringify(articleSchema, null, 2)
+        ])
       }
-      const breadCrumbs = breadCrumbsJson(pageData, canonicalUrl)
-      pageData.frontmatter.head.push([
-        'script',
-        { type: 'application/ld+json' },
-        JSON.stringify(breadCrumbs, null, 2)
-      ])
+      const breadCrumbs = breadCrumbsJsonLd(pageData, canonicalUrl, myConfig)
+      if (breadCrumbs.itemListElement.length > 1 ){
+        pageData.frontmatter.head.push([
+          'script',
+          { type: 'application/ld+json' },
+          JSON.stringify(breadCrumbs, null, 2)
+        ])
+      }
     },
     lastUpdated: false
   })

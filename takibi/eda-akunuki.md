@@ -8,7 +8,7 @@ published: 2025-06-02
 
 リモートワークなので始業時間前など家にいる時間は結構ある。
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/Dypfoh2_9bA" title="公園のケヤキの小枝で薪作り #枝薪" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="Dypfoh2_9bA" title="公園のケヤキの小枝で薪作り #枝薪" aspect="9:16" />
 
 そこでやり始めたのが枝の洗浄。
 
@@ -51,7 +51,7 @@ published: 2025-06-02
 
 またベランダに置いたものも木くずが大量に出ていたことがあった。おそらくカミキリムシだろう。
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/K1B1Kevk29s" title="荒川河川敷 柳の枝をゲットして洗って干す #枝薪" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="K1B1Kevk29s" title="荒川河川敷 柳の枝をゲットして洗って干す #枝薪" aspect="9:16" />
 
 これも熱めの残り湯につけることで申し訳ないけど全滅させることができる。
 

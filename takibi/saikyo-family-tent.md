@@ -66,11 +66,10 @@ published: 2025-06-02
 
 商品名で検索するといくつもレビュー動画が見つかる。特に問題になりそうなことはなかった。
 
-<iframe width="618" height="348" src="https://www.youtube.com/embed/AaSe4Mpx1lE" title="【パイクスピーク】パーティードームテント徹底解剖" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<YouTube id="AaSe4Mpx1lE" title="【パイクスピーク】パーティードームテント徹底解剖" aspect="16:9" />
 <hr>
 
-<iframe width="618" height="348" src="https://www.youtube.com/embed/_tMc7hiJ79k" title="【PYKES PEAK】初心者キャンパーが激安テントを約半年間使って徹底レビュー【おすすめキャンプグッズ】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="_tMc7hiJ79k" title="【PYKES PEAK】初心者キャンパーが激安テントを約半年間使って徹底レビュー【おすすめキャンプグッズ】" aspect="16:9" />
 
 ## 競合
 どれもほぼ同じ形で、価格もほぼ同じ。

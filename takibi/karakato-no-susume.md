@@ -52,7 +52,7 @@ published: 2025-06-05
 
 ### カラフルで楽しくコレクションに
 
-<iframe width="315" height="505" src="https://www.youtube.com/embed/Pd4uFhu2BWY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="Pd4uFhu2BWY" title="" aspect="9:16" />
 
 アウトドア用品にも色の刺激がほしいのと、子供が気に入ったのでカラカトを購入したところ、質感もよく、普段も使えて実用性も高く、値段も安いのでコレクションになってました。
 

@@ -4,7 +4,7 @@ lastUpdated: 2025-06-06
 published: 2025-06-06
 ---
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/vBnsYmLDYHg" title="初夏の無料着火剤チガヤ収穫" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="vBnsYmLDYHg" title="初夏の無料着火剤チガヤ収穫" aspect="9:16" />
 
 千茅（チガヤ）という名前も最近知ったが、穂がふわふわで気持ちいいので子どもの時に集めていたのを思い出す。
 

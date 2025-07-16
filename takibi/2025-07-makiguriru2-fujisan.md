@@ -4,7 +4,7 @@ lastUpdated: 2025-07-12
 published: 2025-07-12
 ---
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/vgo0URTEMlk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="vgo0URTEMlk" title="" aspect="9:16" />
 
 今日は2025/7/12。
 

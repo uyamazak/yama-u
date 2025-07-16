@@ -13,7 +13,7 @@ published: 2025-05-31
 
 しかし焚き火と言えば普通の薪の情報ばかり。小枝だけで焚き火をしている人はあまりいないようだ。
 
-<iframe width="422" height="751" src="https://www.youtube.com/embed/po-cIX5zQWc" title="公園のケヤキの枝で薪作り #薪" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="po-cIX5zQWc" title="公園のケヤキの枝で薪作り #薪" aspect="9:16" />
 
 ## 二次燃焼ウッドストーブ
 
@@ -21,7 +21,7 @@ published: 2025-05-31
 
 ウッドストーブであれば小型で落ち葉や小枝だけでも燃やせ、さらに二次燃焼という仕組みで火力も強いらしい。
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/qBU00lwgrc8" title="field to summit フレイムストーブL初回使用できれいな変色 #焚き火" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="qBU00lwgrc8" title="field to summit フレイムストーブL初回使用できれいな変色 #焚き火" aspect="16:9" />
 
 さっそくAmazonで買った。
 
@@ -41,5 +41,4 @@ published: 2025-05-31
 
 燃え終わるとほぼ灰になるが、下の穴がつまってくると燃えにくくはなってくる。
 
-
-<iframe width="458" height="815" src="https://www.youtube.com/embed/I9uvCyU070s" title="二次燃焼ストーブで枝を燃やす＠坂田ヶ池総合公園キャンプ場" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="I9uvCyU070s" title="二次燃焼ストーブで枝を燃やす＠坂田ヶ池総合公園キャンプ場" aspect="9:16" />

@@ -20,7 +20,7 @@ hero:
 
 features:
   - title: 🔥枝と焚火
-    details: 枝拾って焚き火のこと
+    details: 枝拾いと焚き火のこと
     link: /takibi/
 
   - title: 📺️アニメ

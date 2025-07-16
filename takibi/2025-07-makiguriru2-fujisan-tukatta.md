@@ -1,6 +1,6 @@
 ---
 title: 薪グリルⅡ富士山verで早速焚き火してきた
-lastUpdated: 2025-07-14 
+lastUpdated: 2025-07-15
 published: 2025-07-14
 ---
 
@@ -8,7 +8,7 @@ published: 2025-07-14
 
 動画を見直すとニイニイゼミの鳴き声がすごい。初夏だ。
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/1MqWWZ2CdbI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="1MqWWZ2CdbI" title="" aspect="9:16" />
 
 薪グリルという名前だけあり、機能だけでなく、薪の包容力の高さを感じる焚き火台です。
 
@@ -65,7 +65,7 @@ published: 2025-07-14
 
 ## 付属ケースは使えるけど持ち手もなく不便
 
-付属のケースは少し厚めのナイロン系の生地の巾着袋。
+付属のケースは少し厚めのポリエステル生地の巾着袋。
 
 すぐに破けたりはしなさそうですが、持ち手がない。3.8キロと重めなので片手で持つのは大変。紐も細いので持ち手としては不十分。
 

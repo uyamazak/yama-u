@@ -12,7 +12,7 @@ published: 2025-06-02
 
 [キャプテンスタッグ(CAPTAIN STAG) キャンプ用 やかん 鍋 キャンピングケットルクッカー 900ml](https://amzn.to/43U3ISW)
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/lFh1vlPoG1Q" title="大房岬自然公園第1キャンプ場で枝と2次燃焼ウッドストーブで湯沸かし#焚き火" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="lFh1vlPoG1Q" title="大房岬自然公園第1キャンプ場で枝と2次燃焼ウッドストーブで湯沸かし#焚き火" aspect="9:16" />
 
 焚き火台はこれ。
 [Field to Summit フレイムストーブＬ OFBFL](https://amzn.to/4kGEL2O)
@@ -39,7 +39,7 @@ published: 2025-06-02
 
 アルミ特有の臭さがあった気もしたので一回コメの研ぎ汁で煮沸もしてみた。気休めである。
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/nba9--Pdp_4" title="雨の中で焚き火  #焚き火" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="nba9--Pdp_4" title="雨の中で焚き火  #焚き火" aspect="9:16" />
 
 10回程度使っているがいい感じに真っ黒になった。棕櫚たわしで落ちる分だけ洗って傷はつかないようにしている。
 

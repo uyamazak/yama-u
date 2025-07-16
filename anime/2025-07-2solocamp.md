@@ -17,6 +17,6 @@ https://2solocamp-anime.com/
 
 こちらの公式の番宣？動画も観てしまった。
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/hXye3n3Mmuo" title="【ふたりソロキャンプ】はじめてのふたりソロキャンプ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="hXye3n3Mmuo" title="【ふたりソロキャンプ】はじめてのふたりソロキャンプ" aspect="16:9" />
 
 赤いPANDAテントいいなぁと思って検索したらテンマクデザインでも見つからず。廃盤っぽく残念。

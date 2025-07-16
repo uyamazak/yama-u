@@ -6,7 +6,7 @@ published: 2025-07-04
 
 中野剛志さんのシュンペーターの動画を見た。100年以上前に少子化を予言していたという。資本主義は成功するから滅びる、というのが面白いし納得できた。[入門 シュンペーター](https://amzn.to/4krvfjL)も買おうと思う。
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/SdaP_KCZVV8" title="【資本主義は成功するから滅びる】今こそシュンペーターを学ぶ理由/失われた30年が起きたワケとは/イノベーションの必要条件/資本主義崩壊のパターン/合理主義の精神が蔓延すると子どもの数が減る" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="SdaP_KCZVV8" title="【資本主義は成功するから滅びる】今こそシュンペーターを学ぶ理由/失われた30年が起きたワケとは/イノベーションの必要条件/資本主義崩壊のパターン/合理主義の精神が蔓延すると子どもの数が減る" aspect="16:9" />
 
 合理的は理に合うと書くが、合うとは言っても、その理が正しいかどうかは全く保障されていない。理の正しさは作った人の視野や頭のよさ、範囲で変わる。
 

@@ -17,7 +17,8 @@ published: 2025-06-24
 中華風で主人公が好きなイケメンでてきて、昔から続くふしぎ遊戯や、彩雲国物語、一二国記などの系譜の女性向けアニメだと思っていた。
 
 系譜についてはこの動画が詳しい。
-<iframe width="640" height="480" src="https://www.youtube.com/embed/G7tRjMOTGx0" title="「薬屋のひとりごと」を考察していったら現代女子の欲望とエールが見えてきた件" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<YouTube id="G7tRjMOTGx0" title="「薬屋のひとりごと」を考察していったら現代女子の欲望とエールが見えてきた件" aspect="16:9" />
 
 たしか基本的な要素は似通って、そこまで期待していなかったが、見てみたらのめり込んでしまった。
 

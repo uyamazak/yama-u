@@ -10,7 +10,7 @@ published: 2025-06-03
 
 燃やして出る煙にも毒、折って出てくる汁にも毒、腐葉土にしても1年は毒。捨てるときにも自治体によっては特別なゴミの出し方を要求したりする。
 
-<iframe width="458" height="815" src="https://www.youtube.com/embed/aNb9pAxHljU" title="猛毒キョウチクトウ　焚火の天敵" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="aNb9pAxHljU" title="猛毒キョウチクトウ　焚火の天敵" aspect="9:16" />
 
 見分け方は、名前のように竹のような形をした葉っぱときれいな花、あと株立ち（細い木が複数同じところから生える）の木であること。
 

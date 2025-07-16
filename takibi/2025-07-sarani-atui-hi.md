@@ -4,7 +4,7 @@ lastUpdated: 2025-07-06
 published: 2025-07-06
 ---
 
-<iframe width="480" height="640" src="https://www.youtube.com/embed/nLfSandP1N4" title="7月彩湖 最高気温34度 ガンガン焚火 #焚火" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<YouTube id="nLfSandP1N4" title="7月彩湖 最高気温34度 ガンガン焚火 #焚火" aspect="9:16" />
 
 7月初旬、[前回](/takibi/202506-atui-hi-takibi.md)よりも暑い日に、また4時間ほど時間ができたので彩湖道満グリーンパークで焚火してきた。
 
