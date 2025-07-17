@@ -1,5 +1,5 @@
 import { defineConfig, createContentLoader } from 'vitepress'
-import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd } from './utils.mts'
+import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd, itemListJsonLd } from './utils.mts'
 // https://vitepress.dev/reference/site-config
 const categories = [
   { text: '🔥焚き火', link: '/takibi/' },
@@ -65,7 +65,7 @@ export default async () => {
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
-        { text: '🏡Home', link: baseUrl },
+        { text: '🏡Home', link: '/' },
         { text: '🍉About', link: '/about.html' },
         ...categories
       ],
@@ -110,12 +110,24 @@ export default async () => {
         { rel: 'canonical', href: canonicalUrl }
       ])
       const isCategoryPage = pageData.relativePath.endsWith('index.md')
-      if (!isCategoryPage) {
-        const category = pageData.relativePath.split('/')[0]
-        const categoryPath = `/${category}/*.md`
-        const sameCategoryLoader = createContentLoader(categoryPath)
-        const categoryData = await sameCategoryLoader.load()
-        const sortedCategoryPosts = getOrderdPosts(categoryData)
+      const category = pageData.relativePath.split('/')[0]
+      const categoryPath = `/${category}/*.md`
+      const sameCategoryLoader = createContentLoader(categoryPath)
+      const categoryData = await sameCategoryLoader.load()
+      const sortedCategoryPosts = getOrderdPosts(categoryData)
+      if (isCategoryPage) {
+        const latestPost = sortedCategoryPosts[sortedCategoryPosts.length - 1]
+        if (latestPost?.lastUpdated) {
+          pageData.frontmatter.lastUpdated = latestPost.lastUpdated
+        }
+        const itemList = itemListJsonLd(sortedCategoryPosts, myConfig)
+        pageData.frontmatter.head.push([
+          'script',
+          { type: 'application/ld+json' },
+          JSON.stringify(itemList, null, 2)
+        ])
+
+      } else {  
         const nextAndPrev = getNextAndPrevPost(currentPageData[0].url, sortedCategoryPosts)
         pageData.frontmatter.prev = nextAndPrev.prev
         pageData.frontmatter.next = nextAndPrev.next

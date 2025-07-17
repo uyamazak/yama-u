@@ -5,13 +5,14 @@ type MyConfig = {
   authorName: string;
   baseUrl: string;
   defaultImg: string;
-  categories: {text: string, link: string}[];
+  categories: { text: string, link: string }[];
 }
 
 export type PostMetaWithIndex = {
   title: string;
   url: string;
-  date: string;
+  published: string;
+  lastUpdated?: string;
   order: number;
   isIndex: boolean;
 }
@@ -20,14 +21,15 @@ export const getOrderdPosts = (contents: ContentData[]): PostMetaWithIndex[] => 
     return {
       title: content.frontmatter.title,
       url: content.url,
-      date: content.frontmatter.published
+      published: content.frontmatter.published,
+      lastUpdated: content.frontmatter.lastUpdated,
     }
   })
   const sorted = formatted.sort((a, b) => {
-    if (b.date === a.date) {
+    if (b.published === a.published) {
       return b.url > a.url ? 1 : -1
     }
-    return b.date > a.date ? -1 : 1
+    return b.published > a.published ? -1 : 1
   })
 
   const withOrder = sorted.map((content, index) => {
@@ -121,5 +123,27 @@ export const articleJsonLd = (pageData: PageData, canonicalUrl: string, config: 
       name: authorName,
       url: `${baseUrl}/author.html`
     }
+  }
+}
+
+export const itemListJsonLd = (posts: PostMetaWithIndex[], config: MyConfig) => {
+  const sortedPosts = posts
+    .filter(
+      post => !post.isIndex && post.published
+    ).reverse() // 最新の投稿が先頭に来るように逆順にする
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: sortedPosts.map((post, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      item: {
+        "@type": "Article",
+        headline: post.title,
+        url: `${config.baseUrl}${post.url}`,
+        //"image": post.image,
+        datePublished: toISOStringWithTimezone(new Date(post.published))
+      }
+    }))
   }
 }

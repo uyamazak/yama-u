@@ -21,8 +21,6 @@ const aspectClass = computed(() => `aspect-${aspect.replace(':', '-')}`)
 </script>
 
 <style scoped>
-
-
 .youtube-embed iframe {
   width: 100%;
   height: 100%;
