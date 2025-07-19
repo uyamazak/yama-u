@@ -24,21 +24,9 @@ const myConfig = {
 
 export default async () => {
   return defineConfig({
-    vite: {
-      plugins: [pagefindPlugin(      {
-        locales: {
-          root: {
-            btnPlaceholder: '検索',
-            placeholder: '記事を検索',
-            emptyText: '検索結果がありません',
-            heading: '合計: {{searchResult}} 件',
-          },
-        }
-      })],
-    },
     title: siteTitle,
     titleTemplate: `枝と焚火とアニメ`,
-    description: "枝と焚火とアニメの令和最新版テキストサイト",
+    description: "枝と焚火とアニメの自作テキストサイト",
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }],
       [
@@ -126,6 +114,18 @@ export default async () => {
           },
         },
       }
+    },
+    vite: {
+      plugins: [pagefindPlugin({
+        locales: {
+          root: {
+            btnPlaceholder: '検索',
+            placeholder: '記事を検索',
+            emptyText: '検索結果がありません',
+            heading: '合計: {{searchResult}} 件',
+          },
+        }
+      })],
     },
     sitemap: {
       hostname: baseUrl,

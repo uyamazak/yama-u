@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: やまユー
-  text: 令和最新版テキストサイト
-  tagline: 拾った枝で足るを知る
+  text: 焚火・アニメ・ポエム
+  tagline: 自分で作ろう、テキストサイト
   image:
-    light: /img/photo-yakan.webp
-    dark: /img/photo-yakan-ame.webp
+    light: /img/photo-yakan-640.webp
+    dark: /img/photo-yakan-ame-640.webp
     alt: 枝焚火と薬缶
   actions:
     - theme: alt
-      text:  このサイトについて
+      text: このサイトについて
       link: /about.html
     - theme: brand
       text: YouTubeチャンネル
@@ -32,11 +32,11 @@ features:
     link: /poem/
 
 ---
-### 新着
+## 新着テキスト
 
 <PostsList :posts="posts" />
 
-<script setup>
+<script setup lang="ts">
 import { data } from './index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'

@@ -4,7 +4,9 @@ published: 2025-07-02
 lastUpdated: 2025-07-02
 description: 何かを思いついたときに書くどうでもいいポエム、このサイトのWEB技術的なことも書いてます。
 ---
+::: info
 何かを思いついたときに書くどうでもいいポエム、このサイトのWEB技術的なことも書いてます。
+:::
 <PostsList :posts="childs" />
 
 <script setup>
