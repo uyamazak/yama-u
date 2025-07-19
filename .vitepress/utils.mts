@@ -15,6 +15,8 @@ export type PostMetaWithIndex = {
   lastUpdated?: string;
   order: number;
   isIndex: boolean;
+  description?: string;
+  image?: string;
 }
 export const getOrderdPosts = (contents: ContentData[]): PostMetaWithIndex[] => {
   const formatted = contents.map((content) => {
@@ -23,6 +25,8 @@ export const getOrderdPosts = (contents: ContentData[]): PostMetaWithIndex[] => 
       url: content.url,
       published: content.frontmatter.published,
       lastUpdated: content.frontmatter.lastUpdated,
+      description: content.frontmatter.description || content.excerpt,
+      image: content.frontmatter.image
     }
   })
   const sorted = formatted.sort((a, b) => {
@@ -112,7 +116,11 @@ export const articleJsonLd = (pageData: PageData, canonicalUrl: string, config: 
   const dateModified = frontmatter.updated ? toISOStringWithTimezone(frontmatter.updated) : undefined
   return {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': canonicalUrl
+    },
     headline: frontmatter.title,
     image: frontmatter.image || defaultImg,
     url: canonicalUrl,
@@ -122,28 +130,60 @@ export const articleJsonLd = (pageData: PageData, canonicalUrl: string, config: 
       '@type': 'Person',
       name: authorName,
       url: `${baseUrl}/author.html`
-    }
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: config.siteTitle,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${config.baseUrl}/img/logo.webp`
+      }
+    },
+    description: frontmatter.description || pageData.description || undefined
   }
 }
 
 export const itemListJsonLd = (posts: PostMetaWithIndex[], config: MyConfig) => {
+  if (posts.length === 0) {
+    return null
+  }
   const sortedPosts = posts
     .filter(
       post => !post.isIndex && post.published
     ).reverse() // 最新の投稿が先頭に来るように逆順にする
   return {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    numberOfItems: sortedPosts.length,
     itemListElement: sortedPosts.map((post, index) => ({
-      "@type": "ListItem",
+      '@type': 'ListItem',
       position: index + 1,
       item: {
-        "@type": "Article",
+        '@type': 'BlogPosting',
+        mainEntityOfPage: {
+          '@type': 'WebPage',
+          '@id': `${config.baseUrl}${post.url}`
+        },
         headline: post.title,
         url: `${config.baseUrl}${post.url}`,
-        //"image": post.image,
-        datePublished: toISOStringWithTimezone(new Date(post.published))
-      }
+        image: config.defaultImg,
+        datePublished: toISOStringWithTimezone(new Date(post.published)),
+        dateModified: post.lastUpdated ? toISOStringWithTimezone(new Date(post.lastUpdated)) : undefined,
+        author: {
+          '@type': 'Person',
+          name: config.authorName,
+          url: `${config.baseUrl}/author.html`
+        },
+        publisher: {
+          '@type': 'Organization',
+          name: config.siteTitle,
+          logo: {
+            '@type': 'ImageObject',
+            url: `${config.baseUrl}/img/logo.webp`
+          }
+        },
+        description: post.description || undefined,
+      },
     }))
   }
 }

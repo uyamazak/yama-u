@@ -2,8 +2,9 @@
 title: 焚き火
 published: 2025-05-31
 lastUpdated: 2025-05-31
+description: 枝を拾って作った薪を燃やす焚火のこと、キャンプのこと、道具のことを書いてます。
 ---
-
+枝を拾って作った薪を燃やす焚火のこと、キャンプのこと、道具のことを書いてます。
 <PostsList :posts="childs" />
 
 <script setup>

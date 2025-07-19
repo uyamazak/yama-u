@@ -1,10 +1,10 @@
 ---
-title: アニメ「瑠璃の宝石」第1話感想
+title: アニメ「瑠璃の宝石」第1話「はじめての鉱物採集」感想
 lastUpdated: 2025-07-16 
 published: 2025-07-16
 ---
 
-Amazon Primie Videoのdアニメストアで視聴。
+Amazon Prime Videoのdアニメストアで視聴。
 
 「瑠璃の宝石」TVアニメ公式サイト  
 https://rurinohouseki.com/

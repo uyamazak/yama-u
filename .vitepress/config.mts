@@ -69,7 +69,6 @@ export default async () => {
         { text: '🍉About', link: '/about.html' },
         ...categories
       ],
-
       sidebar: [
         {
           text: '🍉このサイトについて',
@@ -81,7 +80,6 @@ export default async () => {
         },
 
       ],
-
       socialLinks: [
         { icon: 'youtube', link: 'https://www.youtube.com/@yama-u-eda' }
       ],
@@ -93,6 +91,27 @@ export default async () => {
         src: '/img/logo.webp',
         alt: `${siteTitle}ロゴ`,
       },
+      search: {
+        provider: 'local',
+        options: {
+        miniSearch: {
+          options: {
+            tokenize: (term) => {
+              if (typeof term === 'string') term = term.toLowerCase();
+              const segmenter = Intl.Segmenter && new Intl.Segmenter('ja-JP', { granularity: 'word' });
+              if (!segmenter) return [term];
+              const tokens = [];
+              for (const seg of segmenter.segment(term)) {
+                // @ts-ignore
+                // ignore spaces
+                if (seg.segment.trim() !== '') tokens.push(seg.segment);
+              }
+              return tokens;
+            },
+          },
+        },
+      },
+      }
     },
     sitemap: {
       hostname: baseUrl,
@@ -121,13 +140,15 @@ export default async () => {
           pageData.frontmatter.lastUpdated = latestPost.lastUpdated
         }
         const itemList = itemListJsonLd(sortedCategoryPosts, myConfig)
-        pageData.frontmatter.head.push([
-          'script',
-          { type: 'application/ld+json' },
-          JSON.stringify(itemList, null, 2)
-        ])
+        if (itemList) {
+          pageData.frontmatter.head.push([
+            'script',
+            { type: 'application/ld+json' },
+            JSON.stringify(itemList, null, 2)
+          ])
+        }
 
-      } else {  
+      } else {
         const nextAndPrev = getNextAndPrevPost(currentPageData[0].url, sortedCategoryPosts)
         pageData.frontmatter.prev = nextAndPrev.prev
         pageData.frontmatter.next = nextAndPrev.next
@@ -149,7 +170,7 @@ export default async () => {
         ])
       }
       const breadCrumbs = breadCrumbsJsonLd(pageData, canonicalUrl, myConfig)
-      if (breadCrumbs.itemListElement.length > 1 ){
+      if (breadCrumbs.itemListElement.length > 1) {
         pageData.frontmatter.head.push([
           'script',
           { type: 'application/ld+json' },
@@ -157,6 +178,6 @@ export default async () => {
         ])
       }
     },
-    lastUpdated: false
+    lastUpdated: false,
   })
 }
