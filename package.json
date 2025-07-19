@@ -10,5 +10,9 @@
     "d": "vitepress build && firebase deploy",
     "dev": "vitepress dev",
     "g": "node scripts/generate-post.mjs"
+  },
+  "dependencies": {
+    "pagefind": "^1.3.0",
+    "vitepress-plugin-pagefind": "^0.4.14"
   }
 }

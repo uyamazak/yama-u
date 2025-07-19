@@ -1,4 +1,6 @@
 import { defineConfig, createContentLoader } from 'vitepress'
+import { pagefindPlugin, chineseSearchOptimize } from 'vitepress-plugin-pagefind'
+
 import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd, itemListJsonLd } from './utils.mts'
 // https://vitepress.dev/reference/site-config
 const categories = [
@@ -22,6 +24,18 @@ const myConfig = {
 
 export default async () => {
   return defineConfig({
+    vite: {
+      plugins: [pagefindPlugin(      {
+        locales: {
+          root: {
+            btnPlaceholder: '検索',
+            placeholder: '記事を検索',
+            emptyText: '検索結果がありません',
+            heading: '合計: {{searchResult}} 件',
+          },
+        }
+      })],
+    },
     title: siteTitle,
     titleTemplate: `枝と焚火とアニメ`,
     description: "枝と焚火とアニメの令和最新版テキストサイト",
@@ -94,23 +108,23 @@ export default async () => {
       search: {
         provider: 'local',
         options: {
-        miniSearch: {
-          options: {
-            tokenize: (term) => {
-              if (typeof term === 'string') term = term.toLowerCase();
-              const segmenter = Intl.Segmenter && new Intl.Segmenter('ja-JP', { granularity: 'word' });
-              if (!segmenter) return [term];
-              const tokens = [];
-              for (const seg of segmenter.segment(term)) {
-                // @ts-ignore
-                // ignore spaces
-                if (seg.segment.trim() !== '') tokens.push(seg.segment);
-              }
-              return tokens;
+          miniSearch: {
+            options: {
+              tokenize: (term) => {
+                if (typeof term === 'string') term = term.toLowerCase();
+                const segmenter = Intl.Segmenter && new Intl.Segmenter('ja-JP', { granularity: 'word' });
+                if (!segmenter) return [term];
+                const tokens = [];
+                for (const seg of segmenter.segment(term)) {
+                  // @ts-ignore
+                  // ignore spaces
+                  if (seg.segment.trim() !== '') tokens.push(seg.segment);
+                }
+                return tokens;
+              },
             },
           },
         },
-      },
       }
     },
     sitemap: {
