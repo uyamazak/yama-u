@@ -8,7 +8,7 @@ published: 2025-07-16
 
 ## UFギアバッグ50
 
-以前から薪入れとして気になっていたのと、購入した[薪グリル富士山Ver](/takibi/2025-07-makiguriru2-fujisan-tukatta.md)の付属袋が頼りなく
+以前から薪入れとして気になっていたのと、購入した[薪グリル富士山Ver](/takibi/2025-07-makiguriru2-fujisan-tukatta)の付属袋が頼りなく
 
 持ち運び用にもよさそうだったので購入。
 

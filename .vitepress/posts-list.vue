@@ -36,13 +36,19 @@ ul.post-list {
 .post-link:hover {
   background-color: #eee;
 }
+.dark .post-link:hover {
+  background-color: #333;
+}
 .post-date {
   flex-shrink: 0; /* 日付部分が縮まないようにする */
-  font-size: 0.8em;
+  font-size: 0.85em;
   margin-right: 1em;
-  color: #888;
+  color: #666;
   /* 等幅フォント */
   font-family: 'Courier New', Courier, monospace;
+}
+.dark .post-date {
+  color: #ccc;
 }
 .title {
   text-decoration: underline;

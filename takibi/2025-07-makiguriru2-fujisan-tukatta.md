@@ -4,7 +4,7 @@ lastUpdated: 2025-07-15
 published: 2025-07-14
 ---
 
-[発売日に買った薪グリルⅡ 富士山ver.](/takibi/2025-07-makiguriru2-fujisan-tukatta.md)を我慢できず、翌日に彩湖道満グリーンパークへ焚火に行ってきました。
+[発売日に買った薪グリルⅡ 富士山ver.](/takibi/2025-07-makiguriru2-fujisan-tukatta)を我慢できず、翌日に彩湖道満グリーンパークへ焚火に行ってきました。
 
 動画を見直すとニイニイゼミの鳴き声がすごい。初夏だ。
 

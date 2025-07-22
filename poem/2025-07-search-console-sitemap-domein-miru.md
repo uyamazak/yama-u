@@ -4,7 +4,7 @@ lastUpdated: 2025-07-10
 published: 2025-07-10
 ---
 
-[yama-u.comドメインを取得した](/poem/2025-07-domain-torubekika.md)のでGoogle Search Consoleにも新しく登録した。
+[yama-u.comドメインを取得した](/poem/2025-07-domain-torubekika)のでGoogle Search Consoleにも新しく登録した。
 
 web.appドメインのときからXMLサイトマップもずっと送信していたが、一向に取得してくれずステータスが赤い **「取得できませんでした」** で1ヶ月たった。まだ記事が足りないのかと思って諦めていた。
 

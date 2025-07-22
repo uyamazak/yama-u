@@ -5,7 +5,7 @@ published: 2025-07-15
 ---
 [TVアニメ『ブサメンガチファイター』公式サイト](https://busamen-gachi-fighter.com)
 
-同時期にアニメが開始された[ブスに花束を。](/anime/2025-07-busu-ni-hanataba.md)と対を成している気がしてAmazon Primeで視聴。
+同時期にアニメが開始された[ブスに花束を。](/anime/2025-07-busu-ni-hanataba)と対を成している気がしてAmazon Primeで視聴。
 
 こちらは転生モノだが、**ルッキズムへのアンチテーゼ**として通じる部分がありそうだ。
 
