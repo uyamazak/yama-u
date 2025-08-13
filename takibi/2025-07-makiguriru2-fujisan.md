@@ -1,5 +1,5 @@
 ---
-title: UNIFRAME 40周年記念薪グリルⅡ 富士山ver.を発売日に買った
+title: UNIFLAME 40周年記念薪グリルⅡ 富士山ver.を発売日に買った
 lastUpdated: 2025-07-12 
 published: 2025-07-12
 ---
@@ -31,7 +31,7 @@ https://www.wild1.co.jp/campaign/summer_sale/
 https://www.uniflame.co.jp/product/665107
 
 
-脇にセットできる小物やトングを置けるユニセラサイドトレーも欲しくなり、UNIFRAMEの策略にハマってしまっているようだ。
+脇にセットできる小物やトングを置けるユニセラサイドトレーも欲しくなり、UNIFLAMEの策略にハマってしまっているようだ。
 
 ユニセラサイドトレー  
 https://www.uniflame.co.jp/product/615188
