@@ -1,5 +1,5 @@
 import { defineConfig, createContentLoader } from 'vitepress'
-import { pagefindPlugin, chineseSearchOptimize } from 'vitepress-plugin-pagefind'
+import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 
 import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd, itemListJsonLd } from './utils.mts'
 // https://vitepress.dev/reference/site-config
@@ -31,18 +31,6 @@ export default async () => {
       ['link', { rel: 'icon', href: '/favicon.ico' }],
       [
         'script',
-        { async: '', src: `https://www.googletagmanager.com/gtag/js?id=${gaId}` }
-      ],
-      [
-        'script',
-        {},
-        `window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '${gaId}');`
-      ],
-      [
-        'script',
         { type: 'application/ld+json' },
         `[
           {
@@ -67,8 +55,8 @@ export default async () => {
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
-        { text: '🏡Home', link: '/' },
-        { text: '🍉About', link: '/about.html' },
+        { text: '🏡ホーム', link: '/' },
+        { text: '🍉このサイトについて', link: '/about.html' },
         ...categories
       ],
       sidebar: [
@@ -80,10 +68,20 @@ export default async () => {
           text: 'カテゴリ',
           items: categories
         },
+        {
+          text: 'Youtube',
+          link: 'https://www.youtube.com/@yama-u-eda',
+        },
+        {
+          text: 'X',
+          link: 'https://x.com/yama_u_com',
+        }
+
 
       ],
       socialLinks: [
-        { icon: 'youtube', link: 'https://www.youtube.com/@yama-u-eda' }
+        { icon: 'youtube', link: 'https://www.youtube.com/@yama-u-eda' },
+        { icon: 'x', link: 'https://x.com/yama_u_com' }
       ],
       footer: {
         message: 'powered by VitePress',

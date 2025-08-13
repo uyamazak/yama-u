@@ -5,7 +5,7 @@ layout: home
 hero:
   name: やまユー
   text: 焚火・アニメ・ポエム
-  tagline: 自分で作ろう、テキストサイト
+  tagline: 🍉ホームページへようこそ🍑
   image:
     light: /img/photo-yakan-640.webp
     dark: /img/photo-yakan-ame-640.webp
@@ -14,34 +14,18 @@ hero:
     - theme: alt
       text: このサイトについて
       link: /about.html
-    - theme: brand
-      text: YouTubeチャンネル
-      link: https://www.youtube.com/@yama-u-eda
-
-features:
-  - title: 🔥枝と焚火
-    details: 枝拾いと焚き火のこと
-    link: /takibi/
-
-  - title: 📺️アニメ
-    details: アニメのこと
-    link: /anime/
-
-  - title: 📖ポエム
-    details: いわゆるポエム
-    link: /poem/
 
 ---
-## 新着テキスト
+## 新着記事
 
 <PostsList :posts="posts" />
 
 <script setup lang="ts">
-import { data } from './index.data.mjs'
+import { data } from './index.data'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import PostsList from './.vitepress/posts-list.vue'
-import { sortPosts } from './utils.mjs'
+import { sortPosts } from './utils'
 const { frontmatter } = useData()
 const MAX_POSTS = 20
 const posts = computed(() => {

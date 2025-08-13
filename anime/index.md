@@ -11,11 +11,11 @@ description: 主に配信で見たアニメの感想や考察を書いてます�
 <PostsList :posts="childs" />
 
 <script setup lang="ts">
-import { data as posts } from './index.data.mjs'
+import { data as posts } from './index.data'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import PostsList from '../.vitepress/posts-list.vue'
-import { sortPosts } from '../utils.mjs'
+import { sortPosts } from '../utils'
 const { frontmatter } = useData()
 const childs = computed(() => {
   return sortPosts(posts, frontmatter)

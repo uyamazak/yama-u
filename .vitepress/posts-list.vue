@@ -9,7 +9,7 @@
 </ul>
 </template>
 <script setup>
-import { formatDate } from '../utils.mjs'
+import { formatDate } from '../utils'
 const props = defineProps({
   posts: {
     type: Array,

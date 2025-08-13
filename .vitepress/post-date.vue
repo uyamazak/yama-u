@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-import { formatDate } from '../utils.mjs'
+import { formatDate } from '../utils'
 import { useData } from 'vitepress'
 const { frontmatter } = useData()
 </script>
@@ -14,8 +14,8 @@ const { frontmatter } = useData()
 <style scoped>
 .post-date {
   font-size: 0.75em;
-  margin-top: 0.5em;
-  text-align: right ;
+  margin-top: 0.25em;
+  text-align: right;
 }
 .published {
   margin-right: 1em;

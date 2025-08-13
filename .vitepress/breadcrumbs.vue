@@ -13,11 +13,14 @@
   font-size: small;
   padding: 0;
   margin: 0 0 1rem 0;
-  display: flex;
-  flex-wrap: wrap;
+
+  white-space: nowrap; /* テキストの折り返しを禁止する */
+  overflow-x: auto;    /* 内容がはみ出た場合に横スクロールバーを表示する */
+  -webkit-overflow-scrolling: touch; 
 }
 .breadcrumbs li {
   margin-right: 0.5rem;
+  display: inline-block;
 }
 .breadcrumbs li:not(:last-child)::after {
   content: ' / ';
