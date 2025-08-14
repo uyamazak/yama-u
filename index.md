@@ -16,7 +16,7 @@ hero:
       link: /about.html
 
 ---
-## 新着記事
+## 新着
 
 <PostsList :posts="posts" />
 
@@ -34,5 +34,4 @@ const posts = computed(() => {
     return !post.url.endsWith('/') 
   }).slice(0, MAX_POSTS)
 })
-
 </script>
