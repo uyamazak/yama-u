@@ -9,7 +9,8 @@
     "deploy": "vitepress build && firebase deploy",
     "d": "vitepress build && firebase deploy",
     "dev": "vitepress dev",
-    "g": "node scripts/generate-post.mjs"
+    "g": "node scripts/generate-post.mjs",
+    "u": "git add -A && git commit -m 'update' && git push"
   },
   "dependencies": {
     "pagefind": "^1.3.0",
