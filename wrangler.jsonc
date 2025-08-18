@@ -1,6 +1,6 @@
 {
   "name": "yama-u",
-  "compatibility_date": "2028-08-17",
+  "compatibility_date": "2025-08-17",
   "assets": {
     "directory": ".vitepress/dist",
     "not_found_handling": "404-page",
