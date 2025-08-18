@@ -1,16 +1,14 @@
 ---
-title: Cloudflareで末尾.htmlの除去リダイレクトをやめさせる
+title: Cloudflare Workersで末尾.html除去リダイレクトをやめさせる
 lastUpdated: 2025-08-18 
 published: 2025-08-18
 ---
 
-ホスティングをFirebase HostingからCloudflare Workersに移転してからGoogle Search Consoleから
-
-`代替ページ（適切な canonical タグあり）`の警告が出るようになった。
+[ホスティングをFirebase HostingからCloudflare Workersに移転](/poem/2025-08-firebase-hosting-to-cloudflare-workers.html)してからGoogle Search Consoleから`代替ページ（適切な canonical タグあり）`の警告が出るようになった。
 
 確認すると末尾の`.html`がないパスへ珍しい307でリダイレクトされていた。
 
-VitePressのデフォルトも.htmlだし、sitemap.xmlもそのパスで出力しているし、古来のホームページも.htmlが付いていたので、なるべく維持したい。
+VitePressのデフォルトも.html付きだし、sitemap.xmlもそのパスで出力しているし、古来のホームページも.htmlが付いていたので、なるべく維持したい。
 
 Geminiに聞いたところWorkersと書いているのにPagesの説明が出てきて役に立たなかった。
 
