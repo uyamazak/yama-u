@@ -1,0 +1,6 @@
+{
+  "compatibility_date": "2028-08-17",
+  "assets": {
+    "directory": ".vitepress/dist"
+  }
+}
