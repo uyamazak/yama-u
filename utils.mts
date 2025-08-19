@@ -29,39 +29,20 @@ export const toISOStringWithTimezone = (date: Date): string => {
   return `${year}-${month}-${day}T${hour}:${min}:${sec}${sign}${tzHour}:${tzMin}`
 }
 
-const isDevServer = () => {
+export const isDevServer = () => {
   return import.meta.url?.includes('127.0.0') || import.meta.url?.includes('localhost')
 }
-const publishedPosts = (posts: any[]): any[] => {
-  if (!posts.length) {
-    return []
-  }
-  
-  // publishedが現在日時より前のものだけを返す
-  const now = new Date()
-  return posts.filter(post => {
-    if (!post.frontmatter?.published) {
-      return true
-    }
-    if (isDevServer()) {
-      return true // 開発サーバーでは全ての投稿を表示
-    }
-    const publishedDate = toISOStringWithTimezone(new Date(post.frontmatter.published))
-    return new Date(publishedDate) <= now
-  })
-}
+
 export const sortPosts = (posts, frontmatter) => {
   const filtered = posts.filter(post => {
     return post.frontmatter.title !== frontmatter.value.title
   })
-  const published = publishedPosts(filtered)
-  return published.sort((a, b) => {
+  return filtered.sort((a, b) => {
     if (a.frontmatter.published === b.frontmatter.published) {
       return b.frontmatter.title < a.frontmatter.title ? -1 : 1
     }
     return b.frontmatter.published > a.frontmatter.published ? 1 : -1
   })
-
 }
 
 
