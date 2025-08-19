@@ -2,6 +2,7 @@
 title: 薪グリルⅡのケースにベルモントのTOKOBI タフトートがちょうどよさそう
 lastUpdated: 2025-08-19 
 published: 2025-08-19
+description: UNIFLAMEの薪グリルⅡのケースにベルモントのTOKOBI タフトートがちょうどよさそう
 ---
 [UNIFLAMEの薪グリルⅡ 富士山ver.を買って愛用している](/takibi/2025-07-makiguriru2-fujisan-tukatta)が、付属の袋がただのポリエステルの巾着袋のため頼りなく、3回の使用で破けはしないものの所々伸びて穴が空きそうになってきた。
 
@@ -9,11 +10,11 @@ published: 2025-08-19
 
 そこで、薪グリルⅡのケースを探していたところ、ベルモントの[TOKOBI タフトート](https://belmont-online.shop/products/bm-262)がちょうどよさそうだと気づいた。
 
-薪グリルⅡの収納サイズは[サイト](https://www.uniflame.co.jp/product/682845)によると
+薪グリルⅡの収納サイズは[UNIFLAMEの商品ページ](https://www.uniflame.co.jp/product/682838)によると
 
 >収納時：約25×45.5×6.5（厚さ）cm
 
-TOKOBI タフトートのサイズは
+[TOKOBI タフトート](https://belmont-online.shop/products/bm-262)のサイズは
 
 >サイズ／約470×280×70mm
 
