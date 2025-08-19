@@ -28,10 +28,11 @@ Gitレポジトリのルートに以下の`wrangler.jsonc`ファイルを設置�
   "compatibility_date": "2025-08-17",
   "assets": {
     "directory": ".vitepress/dist",
-    "not_found_handling": "404-page",
+    "not_found_handling": "single-page-application",
     "html_handling": "none"
   }
 }
 ```
+VitePressはサイト内遷移はSPA的な挙動のため、`not_found_handling`を`single-page-application`にしておく必要がある。`none`にしたところ、トップページが404になってしまった。
 
 Cloudflare WorkersとVitePressの情報は少なくAIもPagesの情報ばかりで役に立たない。手探りでまだいろいろ試す必要がありそうで楽しい。
