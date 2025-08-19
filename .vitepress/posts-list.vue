@@ -25,7 +25,7 @@ ul.post-list {
 }
 .post-item {
   list-style: none;
-  margin: 0.5em 0;
+  margin: 0.75em 0;
 }
 .post-link {
   display: flex;
@@ -50,7 +50,5 @@ ul.post-list {
 .dark .post-date {
   color: #ccc;
 }
-.title {
-  text-decoration: underline;
-}
+
 </style>

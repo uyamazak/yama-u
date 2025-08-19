@@ -8,9 +8,9 @@ const { frontmatter } = useData()
 <style>
 .doc-heading {
   letter-spacing: -0.02em;
-  line-height: 2rem;
+  line-height: 2.2rem;
   font-size: 1.8rem;
-  margin-bottom: .5rem;
+  margin-bottom: .4rem;
   position: relative;
   font-weight: 600;
   outline: none;

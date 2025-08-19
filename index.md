@@ -14,8 +14,8 @@ hero:
     - theme: alt
       text: このサイトについて
       link: /about.html
-
 ---
+
 ## 新着
 
 <PostsList :posts="posts" />
