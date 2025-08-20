@@ -41,7 +41,6 @@ ul.post-list {
 }
 .post-date {
   flex-shrink: 0; /* 日付部分が縮まないようにする */
-  font-size: 0.85em;
   margin-right: 1em;
   color: #666;
   /* 等幅フォント */
