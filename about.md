@@ -89,3 +89,9 @@ YouTubeはiframeタグで外部サイトへの貼り付けにも対応してい�
 [著者についてはこちら](/author.html)
 
 [X(Twitter)](https://x.com/yama_u_com)
+
+## 記事内のリンクについて
+
+一部商品リンクはAmazonへのリンクになっています。
+
+Amazonのアソシエイトとして、やまユーは適格販売により収入を得ています。

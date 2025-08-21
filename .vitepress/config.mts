@@ -84,8 +84,8 @@ export default async () => {
         { icon: 'x', link: 'https://x.com/yama_u_com' }
       ],
       footer: {
-        message: 'powered by VitePress',
-        copyright: `Copyright © 2025-present ${authorName} ( ﾟДﾟ)ﾊｧ?`
+        message: `powered by VitePress. `,
+        copyright: `Copyright © 2025-present ${authorName} `
       },
       logo: {
         src: '/img/logo.webp',
