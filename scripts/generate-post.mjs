@@ -26,7 +26,7 @@ const formattedDate = `${year}-${month}-${day}`;
 // Markdownのコンテンツ
 const content = `---
 title: 
-lastUpdated: ${formattedDate} 
+lastUpdated: ${formattedDate}
 published: ${formattedDate}
 ---`
 
