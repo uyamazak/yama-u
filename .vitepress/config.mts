@@ -11,7 +11,6 @@ const categories = [
 const baseUrl = 'https://yama-u.com'
 const siteTitle = 'やまユー'
 const authorName = 'やまゆう'
-const gaId = 'G-1QB9QSHRS0'
 const defaultImg = `${baseUrl}/img/article-default.webp`
 
 const myConfig = {
