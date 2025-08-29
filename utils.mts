@@ -1,3 +1,4 @@
+import { categories } from './.vitepress/config.mts'
 
 export const formatDate = (rawDate) => {
   if (!rawDate) {
@@ -34,6 +35,17 @@ export const isDevServer = () => {
 }
 
 export const sortPosts = (posts, frontmatter) => {
+  posts.forEach(post => {
+    if (post.url.startsWith('/takibi/')) {
+      post.frontmatter.categoryLabel = '🔥'
+    }
+    if (post.url.startsWith('/anime/')) {
+      post.frontmatter.categoryLabel = '📺️'
+    }
+    if (post.url.startsWith('/poem/')) {
+      post.frontmatter.categoryLabel = '📖'
+    }
+  })
   const filtered = posts.filter(post => {
     return post.frontmatter.title !== frontmatter.value.title
   })

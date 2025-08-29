@@ -3,7 +3,7 @@ import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 
 import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd, itemListJsonLd } from './utils.mts'
 // https://vitepress.dev/reference/site-config
-const categories = [
+export const categories = [
   { text: '🔥焚き火', link: '/takibi/' },
   { text: '📺️アニメ', link: '/anime/' },
   { text: '📖ポエム', link: '/poem/' },
@@ -141,6 +141,11 @@ export default async () => {
       ])
       const isCategoryPage = pageData.relativePath.endsWith('index.md')
       const category = pageData.relativePath.split('/')[0]
+      const categoryLabel = categories.find(cat => cat.link === `/${category}/`)?.text
+      if (categoryLabel) {
+        pageData.frontmatter.categoryLabel = categoryLabel
+      }
+      
       const categoryPath = `/${category}/*.md`
       const sameCategoryLoader = createContentLoader(categoryPath)
       const categoryData = await sameCategoryLoader.load()

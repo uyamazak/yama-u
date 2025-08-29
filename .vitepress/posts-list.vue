@@ -3,6 +3,7 @@
   <li v-for="post of posts" :key="post.url" class="post-item">
     <a :href="post.url" class="post-link">
       <span class="post-date">{{ formatDate(post.frontmatter.published) }}</span>
+      <span v-if="post.frontmatter.categoryLabel" class="category-label">{{ post.frontmatter.categoryLabel }}</span>
       <span class="title">{{ post.frontmatter.title }}</span>
     </a>
   </li>
@@ -41,7 +42,7 @@ ul.post-list {
 }
 .post-date {
   flex-shrink: 0; /* 日付部分が縮まないようにする */
-  margin-right: 1em;
+  margin-right: .75em;
   color: #666;
   /* 等幅フォント */
   font-family: 'Courier New', Courier, monospace;
