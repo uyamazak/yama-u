@@ -149,8 +149,6 @@ Amazon Prime Videoでは3話が`13+`, 6話が`7+`の年齢制限が付けられ�
 
 [「ミネラルRadio」 第9回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=bI4m4gTdQOg)
 
-[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
-
 [第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
 
 ### 原作コミックス
