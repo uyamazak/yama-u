@@ -2,7 +2,9 @@
 title: 瑠璃の宝石 アニメ 第7話「渚のリサイクル工房」感想 待っていた硝子ちゃん回
 lastUpdated: 2025-08-20 12:45:00
 published: 2025-08-18 19:15:00
-description:  鉱石研究者志望だった硝子 #瑠璃の宝石感想
+description:  鉱石研究者志望だった硝子
+tags:
+  - 瑠璃の宝石感想
 ---
 前半の山、サファイアの産地探しを終え、後半1話目は、ちらっとだけ登場していた ~~二人目のツルペタ要因~~ 瀬戸硝子の回でした。
 
@@ -35,5 +37,22 @@ description:  鉱石研究者志望だった硝子 #瑠璃の宝石感想
 個人的に林さんの雰囲気や顔が仕事の後輩（男）に似ていることもあり、応援したくなっています。今後の硝子＆林さんの活躍に期待です。
 
 
-「瑠璃の宝石」TVアニメ公式サイト    
-https://rurinohouseki.com/
+## 関連リンク
+
+[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
+
+
+### 公式YouTube動画
+
+[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
+
+[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
+
+[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
+
+[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+
+
+### 原作コミックス
+
+[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)

@@ -75,8 +75,6 @@ export default async () => {
           text: 'X',
           link: 'https://x.com/yama_u_com',
         }
-
-
       ],
       socialLinks: [
         { icon: 'youtube', link: 'https://www.youtube.com/@yama-u-eda' },

@@ -2,7 +2,9 @@
 title: 瑠璃の宝石 アニメ 第5話「見える世界、見えざる世界」感想
 lastUpdated: 2025-08-05 19:45:00
 published: 2025-08-05 19:45:00
-description: 研究の一休みとして、海岸で瑪瑙取りと、蛇紋岩と砂白金を見つけた回。#瑠璃の宝石感想
+description: 研究の一休みとして、海岸で瑪瑙取りと、蛇紋岩と砂白金を見つけた回
+tags:
+  - 瑠璃の宝石感想
 ---
 研究の一休みとして、海岸で瑪瑙取りと、再び川の砂調査で砂白金を見つけた回。
 
@@ -38,5 +40,22 @@ description: 研究の一休みとして、海岸で瑪瑙取りと、蛇紋岩�
 蛇紋岩を見つけたあとは、砂白金探しへ。瑠璃はこれまでの砂研究でかなり上達してきたようです。
 
 
-「瑠璃の宝石」TVアニメ公式サイト  
-https://rurinohouseki.com/
+## 関連リンク
+
+[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
+
+
+### 公式YouTube動画
+
+[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
+
+[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
+
+[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
+
+[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+
+
+### 原作コミックス
+
+[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)

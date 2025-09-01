@@ -2,6 +2,8 @@
 title: 独自ドメイン取得するべきか
 lastUpdated: 2025-07-08 
 published: 2025-07-08
+tags:
+  - ホームページ開発
 ---
 
 現在、このテキストサイトは、Fierbase Hostingで付与される無料ドメイン( https://yama-u.web.app/ )を利用している。

@@ -2,7 +2,9 @@
 title: 瑠璃の宝石 アニメ 第6話「その青をみつめて」感想 ついにサファイア産地にたどり着く
 lastUpdated: 2025-08-13 19:45:00
 published: 2025-08-13 19:45:00
-description: サファイア産地の特定と青龍伝承とのつながり #瑠璃の宝石感想
+description: サファイア産地の特定と青龍伝承とのつながり
+tags:
+  - 瑠璃の宝石感想
 ---
 ついにサファイアの産地を特定し、またサファイアと昔の龍の伝説のつながりが分かる回でした。
 
@@ -45,5 +47,22 @@ description: サファイア産地の特定と青龍伝承とのつながり #�
 また龍神信仰は、現在の天皇に繋がるアマテラス系に負けてしまった出雲系などのつながりもあるようで個人的に興味深いです。
 
 
-「瑠璃の宝石」TVアニメ公式サイト  
-https://rurinohouseki.com/
+## 関連リンク
+
+[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
+
+
+### 公式YouTube動画
+
+[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
+
+[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
+
+[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
+
+[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+
+
+### 原作コミックス
+
+[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)

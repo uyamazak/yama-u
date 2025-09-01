@@ -2,6 +2,8 @@
 title: 瑠璃の宝石 アニメ 第1話「はじめての鉱物採集」感想
 lastUpdated: 2025-07-16 
 published: 2025-07-16
+tags:
+  - 瑠璃の宝石感想
 ---
 
 Amazon Prime Videoのdアニメストアで視聴。
@@ -26,3 +28,23 @@ https://rurinohouseki.com/
 凪役の声優、瀬戸麻沙美さんは、薬屋のひとりごとでは2期の重要人物、子翠こと楼蘭妃こと玉藻役をやっていたが、全然違うテンションの声で驚いた。
 
 そういえば、子翠も**巨乳**であった。巨乳であることで巨乳好きの皇帝のお手付きとなり、物語に深みを与えていた。凪の巨乳にも何か深い必然性があるに違いない。
+
+## 関連リンク
+
+[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
+
+
+### 公式YouTube動画
+
+[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
+
+[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
+
+[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
+
+[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+
+
+### 原作コミックス
+
+[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)

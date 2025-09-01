@@ -3,6 +3,8 @@ title: 瑠璃の宝石 アニメ 第3話「残された恒星」感想
 lastUpdated: 2025-07-22 12:20:00
 published: 2025-07-22 12:20:00
 description: メガネっ子伊万里曜子が登場するし廃坑へ。13歳以上のレーティングの真意とは
+tags:
+  - 瑠璃の宝石感想
 ---
 
 谷川瑠璃が荒砥凪に招待され、凪の大学前芝大学へ。
@@ -65,5 +67,22 @@ Amazon Prime Videoでなぜか**第3話だけ13歳以上の制限がついてい
 
 <YouTube id="CtA_47WtzzY" title="「瑠璃の宝石」ノンクレジットエンディング映像｜Hana Hope『サファイア』" />
 
-「瑠璃の宝石」TVアニメ公式サイト  
-https://rurinohouseki.com/
+## 関連リンク
+
+[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
+
+
+### 公式YouTube動画
+
+[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
+
+[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
+
+[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
+
+[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+
+
+### 原作コミックス
+
+[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)

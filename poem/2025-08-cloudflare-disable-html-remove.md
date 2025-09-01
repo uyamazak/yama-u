@@ -2,6 +2,8 @@
 title: Cloudflare Workersで末尾.html除去リダイレクトをやめさせる
 lastUpdated: 2025-08-18 
 published: 2025-08-18
+tags:
+  - ホームページ開発
 ---
 
 [ホスティングをFirebase HostingからCloudflare Workersに移転](/poem/2025-08-firebase-hosting-to-cloudflare-workers.html)してからGoogle Search Consoleから`代替ページ（適切な canonical タグあり）`の警告が出るようになった。

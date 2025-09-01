@@ -3,6 +3,8 @@ title: 薪グリルⅡのケースにベルモントのTOKOBI タフトートが
 lastUpdated: 2025-08-19 
 published: 2025-08-19
 description: UNIFLAMEの薪グリルⅡのケースにベルモントのTOKOBI タフトートがちょうどよさそう
+tags:
+  - UNIFLAME
 ---
 [UNIFLAMEの薪グリルⅡ 富士山ver.を買って愛用している](/takibi/2025-07-makiguriru2-fujisan-tukatta)が、付属の袋がただのポリエステルの巾着袋のため頼りなく、3回の使用で破けはしないものの所々伸びて穴が空きそうになってきた。
 

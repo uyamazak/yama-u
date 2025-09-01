@@ -2,6 +2,8 @@
 title: 金属アレルギー持ちにもおすすめUNIFLAMEのカラカトシリーズ
 lastUpdated: 2025-06-05
 published: 2025-06-05
+tags:
+  - UNIFLAME
 ---
 
 ## 金属食器が苦手

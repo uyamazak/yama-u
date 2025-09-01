@@ -2,7 +2,9 @@
 title: 瑠璃の宝石 アニメ 第4話「砂を繙く」感想
 lastUpdated: 2025-07-29 19:40:00
 published: 2025-07-29 19:40:00
-description: 砂の調査と科学的アプローチ、瀬戸硝子と笠丸葵の登場。#瑠璃の宝石感想
+description: 砂の調査と科学的アプローチ、瀬戸硝子と笠丸葵の登場
+tags:
+  - 瑠璃の宝石感想
 ---
 
 「繙く」は「ひもとく」で、読めなかった。でも今回の内容にあった良いタイトルです。
@@ -33,6 +35,22 @@ Amazon Prime Videoで[+13指定を受けていたアニメ第3話](/anime/2025-0
 WEBラジオ[「ミネラルRadio」](https://www.youtube.com/playlist?list=PLUH30mfo5wJyRDo9PK418ZOY-oV1c_jru)がYouTubeでも聞けるのでおすすめです。
 
 
+## 関連リンク
 
-「瑠璃の宝石」TVアニメ公式サイト  
-https://rurinohouseki.com/
+[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
+
+
+### 公式YouTube動画
+
+[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
+
+[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
+
+[「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
+
+[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+
+
+### 原作コミックス
+
+[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)

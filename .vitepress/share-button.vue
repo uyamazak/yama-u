@@ -4,11 +4,14 @@ import { useData } from 'vitepress'
 
 // VitePressの`useData`ヘルパーを使って、現在のページの情報を取得
 const { page } = useData()
-
 // Xの共有URLを生成
 // テキストとURLをエンコードして、URLパラメータとして安全に渡せるようにします
 const twitterShareUrl = computed(() => {
-  const text = encodeURIComponent(page.value.title)
+  let text = encodeURIComponent(page.value.title)
+  if (page.value.frontmatter?.tags?.length) {
+    const tagsText = page.value.frontmatter.tags.map(tag => `${encodeURIComponent('#' + tag)}`).join(' ')
+    text += ` ${tagsText}`
+  }
   const url = encodeURIComponent(window?.location?.href ?? '')
   return `https://x.com/intent/post?text=${text}&url=${url}`
 })

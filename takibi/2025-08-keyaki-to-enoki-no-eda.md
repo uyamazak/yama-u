@@ -1,7 +1,9 @@
 ---
-title: ケヤキとエノキの小枝で着火剤つくり
+title: ケヤキとエノキの小枝で無料の着火剤つくり
 lastUpdated: 2025-08-26
 published: 2025-08-26
+tags:
+  - 枝
 ---
 <YouTube id="at74A6CO20M" title="ケヤキとエノキの小枝で着火剤つくり - Takibi Channel" aspect="9:16" />
 

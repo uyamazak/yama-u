@@ -2,6 +2,8 @@
 title: サイト内検索をvitepress-plugin-pagefindで入れた
 lastUpdated: 2025-07-19 16:00:00
 published: 2025-07-19 16:00:00
+tags:
+  - ホームページ開発
 ---
 
 VitePressのローカルでのサイト内検索はMiniSeachが入っていたが、英文ベースのスペース区切りでの単語検索で、日本語の検索には向いていなかった。

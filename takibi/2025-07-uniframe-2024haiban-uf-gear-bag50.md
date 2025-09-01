@@ -2,6 +2,8 @@
 title: 2024年廃盤 UFギアバック50＆ステンレスワイヤー網 150×400を買った
 lastUpdated: 2025-07-16 
 published: 2025-07-16
+tags:
+  - UNIFLAME
 ---
 
 <YouTube id="2KfwR0fdXHw" title="2024年廃盤 UFギアバック50＆ステンレスワイヤー網 150×400を買った" aspect="9:16" />

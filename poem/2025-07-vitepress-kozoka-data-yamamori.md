@@ -3,6 +3,8 @@ title: VitePressで構造化データを山盛りにした
 lastUpdated: 2025-07-18 
 published: 2025-07-18
 description: VitePressで構築したサイトに構造化データをてんこ盛りにした
+tags:
+  - ホームページ開発
 ---
 
 SEO対策で重要になっているが、サイト上には表示されないし一般的には知られてもなさそうな[構造化データ](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ja)。

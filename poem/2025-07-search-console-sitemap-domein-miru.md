@@ -2,6 +2,8 @@
 title: Google Search Consoleのサイトマップはドメインで差別する
 lastUpdated: 2025-07-10 
 published: 2025-07-10
+tags:
+  - ホームページ開発
 ---
 
 [yama-u.comドメインを取得した](/poem/2025-07-domain-torubekika)のでGoogle Search Consoleにも新しく登録した。

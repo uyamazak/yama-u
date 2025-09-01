@@ -2,6 +2,8 @@
 title: 薪グリルⅡ富士山verで早速焚き火してきた
 lastUpdated: 2025-07-15
 published: 2025-07-14
+tags:
+  - UNIFLAME
 ---
 
 [発売日に買った薪グリルⅡ 富士山ver.](/takibi/2025-07-makiguriru2-fujisan-tukatta)を我慢できず、翌日に彩湖道満グリーンパークへ焚火に行ってきました。

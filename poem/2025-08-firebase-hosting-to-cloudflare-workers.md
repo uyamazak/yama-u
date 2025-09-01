@@ -2,6 +2,8 @@
 title: Firebase HostingからCloudflare Workersへ移行した
 lastUpdated: 2025-08-14 19:15:00
 published: 2025-08-14 19:15:00
+tags:
+  - ホームページ開発
 ---
 
 このサイトのホスティングに昔の慣れからFirebase Hostingを利用していたけど、ドメイン取得からやアクセス解析、メール転送機能などCloudflareを使うことが増えてきたのでCloudflareに移行した。

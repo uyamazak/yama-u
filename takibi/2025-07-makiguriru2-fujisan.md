@@ -2,6 +2,8 @@
 title: UNIFLAME 40周年記念薪グリルⅡ 富士山ver.を発売日に買った
 lastUpdated: 2025-07-12 
 published: 2025-07-12
+tags:
+  - UNIFLAME
 ---
 
 <YouTube id="vgo0URTEMlk" title="" aspect="9:16" />
