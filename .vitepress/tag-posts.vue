@@ -1,5 +1,5 @@
 <template>
-  <div v-if="!isIndex && tagPosts.length">
+  <div v-if="tagPosts.length">
     <h2 class="tags-title">他の「{{ tags.join(', ') }}」</h2>
     <PostsList :posts="tagPosts" />
   </div>
@@ -11,7 +11,7 @@ import { computed } from 'vue'
 import PostsList from '../.vitepress/posts-list.vue'
 import { sortPosts } from '../utils.mts'
 const { frontmatter, page } = useData()
-const isIndex = computed(() => page.value.relativePath.endsWith('index.md'))
+const isIndex = computed(() => page.value.filePath.endsWith('index.md'))
 const tags = frontmatter.value.tags
 const tagPosts = computed(() => {
   if (!tags || !tags.length) return []
@@ -19,7 +19,7 @@ const tagPosts = computed(() => {
   const allposts = sortPosts(posts, frontmatter)
   return allposts.filter(post => {
     const postTags = post.frontmatter.tags
-    if (!postTags) return false
+    if (!postTags ||!postTags.length) return false
     return tags.some(tag => postTags.includes(tag))
   })
 })

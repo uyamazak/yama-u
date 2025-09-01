@@ -14,7 +14,7 @@ export const Theme: ThemeConfig = {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       'doc-before': () => [h(Breadcrumbs), h(PageHeading), h(PostDate), h(ShareButton)],
-      'doc-after': () => [h(tagPosts), h(AmazonAssociates)],
+      'doc-after': () => [h(AmazonAssociates)],
     })
   },
   enhanceApp({ app }) {
