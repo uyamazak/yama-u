@@ -42,7 +42,7 @@ ul.post-list {
 }
 .post-date {
   flex-shrink: 0; /* 日付部分が縮まないようにする */
-  margin-right: .75em;
+  margin-right: .5em;
   color: #666;
   /* 等幅フォント */
   font-family: 'Courier New', Courier, monospace;
