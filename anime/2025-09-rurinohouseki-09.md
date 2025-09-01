@@ -147,6 +147,8 @@ Amazon Prime Videoでは3話が`13+`, 6話が`7+`の年齢制限が付けられ�
 
 [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
 
+[「ミネラルRadio」 第9回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=bI4m4gTdQOg)
+
 [「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=hNgIUYQYVtU)
 
 [第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
