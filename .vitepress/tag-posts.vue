@@ -1,5 +1,5 @@
 <template>
-  <div v-if="isIndex && tagPosts.length">
+  <div v-if="!isIndex && tagPosts.length">
     <h2 class="tags-title">他の「{{ tags.join(', ') }}」</h2>
     <PostsList :posts="tagPosts" />
   </div>
@@ -15,6 +15,7 @@ const isIndex = computed(() => page.value.relativePath.endsWith('index.md'))
 const tags = frontmatter.value.tags
 const tagPosts = computed(() => {
   if (!tags || !tags.length) return []
+  if (isIndex.value) return []
   const allposts = sortPosts(posts, frontmatter)
   return allposts.filter(post => {
     const postTags = post.frontmatter.tags
