@@ -71,22 +71,4 @@ YouTubeの特番でも、瑠璃役の根本京里さんと硝子役の林咲紀�
 
 
 ## 関連リンク
-
-[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
-
-
-### 公式YouTube動画
-
-[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
-
-[第7回「銀化ガラス」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=DDH87bGvI7c)
-
-[明日の硝子ちゃん｜TVアニメ「瑠璃の宝石」第8話『黄昏色のエレジー』2025年8月24日21時30分より順次放送開始！](https://www.youtube.com/watch?v=cxHwLAX4Udc)
-
-[「ミネラルRadio」 第7回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=VExU22hg8j4)
-
-
-### 原作コミックス
-
-[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)
-
+<!--@include: ../parts/ruri-link.md-->

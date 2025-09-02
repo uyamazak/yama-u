@@ -3,6 +3,8 @@ title: ブスに花束を。アニメ第7話 進め！夏休み感想
 lastUpdated: 2025-08-18 19:15:00
 published: 2025-08-18 19:15:00
 description: 新橋ががんばるリア充な夏休み。
+tags:
+  - ブスに花束を。感想
 ---
 
 夏休み、新橋が鶯谷との距離を縮めるためにバーベキューをする話。
@@ -31,6 +33,5 @@ description: 新橋ががんばるリア充な夏休み。
 
 田端は気づいていないものの周りの恋愛はどんどん進んでいく夏休みのお話でした。
 
-
-TVアニメ『ブスに花束を。』公式サイト  
-https://busunihanatabawo.com/
+## 関連リンク
+<!--@include: ../parts/busunihanatabawo-link.md-->

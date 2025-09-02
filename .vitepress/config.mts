@@ -27,6 +27,7 @@ export default async () => {
     titleTemplate: `枝と焚火とアニメ`,
     description: "枝と焚火とアニメの自作テキストサイト",
     srcDir: './src',
+    srcExclude: ['**/parts/**'],
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }],
       [

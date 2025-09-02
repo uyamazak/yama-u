@@ -31,6 +31,9 @@ const MAX_POSTS = 20
 const posts = computed(() => {
   const all = sortPosts(data, frontmatter)
   return all.filter(post => {
+    if (post.url.includes('/parts/')) {
+      return false
+    }
     return !post.url.endsWith('/') 
   }).slice(0, MAX_POSTS)
 })

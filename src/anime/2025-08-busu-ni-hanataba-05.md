@@ -3,6 +3,8 @@ title: ブスに花束を。アニメ第5話 女子ってわかんない 感想
 lastUpdated: 2025-08-05 19:15:00
 published: 2025-08-05 19:15:00
 description: 上野くんだけは絶対無理からのMAX崇メー
+tags:
+  - ブスに花束を。感想
 ---
 田端花はクラス対抗球技祭で卓球。今は少ないカットマンなのが絶妙です。私も中学は卓球部でツブ高でした。
 
@@ -21,5 +23,5 @@ description: 上野くんだけは絶対無理からのMAX崇メー
 花の喪女解釈といい人すぎ＆鈍い上野のやり取りが絶妙に面白いです。
 
 
-TVアニメ『ブスに花束を。』公式サイト  
-https://busunihanatabawo.com/
+## 関連リンク
+<!--@include: ../parts/busunihanatabawo-link.md-->

@@ -137,24 +137,4 @@ Amazon Prime Videoでは3話が`13+`, 6話が`7+`の年齢制限が付けられ�
 判定基準が全然分からんのですが、全年齢で安心して観られる回ということで見直してきます。
 
 ## 関連リンク
-
-[「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
-
-
-### 公式YouTube動画
-
-[第8回「鉱山とその施設」｜TVアニメ「#瑠璃の宝石」がもっと楽しめる特別番組『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=GrnncpDdHAQ)
-
-[明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](https://www.youtube.com/watch?v=7g5z5_Q_z7o)
-
-[「ミネラルRadio」 第9回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=bI4m4gTdQOg)
-
-[第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
-
-### 原作コミックス
-
-[瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)
-
-[瑠璃の宝石 2 (HARTA COMIX)](https://amzn.to/45LW8uN)
-[瑠璃の宝石 3 (HARTA COMIX)](https://amzn.to/4lVmxem)
-[瑠璃の宝石 4 (HARTA COMIX)](https://amzn.to/4lWUcEv)
+<!--@include: ../parts/ruri-link.md-->

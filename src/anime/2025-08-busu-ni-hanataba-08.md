@@ -2,7 +2,9 @@
 title: ブスに花束を。アニメ第8話「年に一度の主役日」感想
 lastUpdated: 2025-08-25 19:15:00
 published: 2025-08-25 19:15:00
-description: ついに田端と上野が連絡先交換 #ブスに花束を。感想
+description: ついに田端と上野が連絡先交換
+tags:
+  - ブスに花束を。感想
 ---
 上野の誕生日プレゼントの回。
 
@@ -60,6 +62,4 @@ description: ついに田端と上野が連絡先交換 #ブスに花束を。�
 なにか理由があるでしょうか。お盆で暑いからなだけ？
 
 ## 関連リンク
-
-TVアニメ『ブスに花束を。』公式サイト  
-https://busunihanatabawo.com/
+<!--@include: ../parts/busunihanatabawo-link.md-->
