@@ -20,8 +20,8 @@ const today = new Date();
 const year = today.getFullYear();
 const month = String(today.getMonth() + 1).padStart(2, '0'); // 月は0から始まるため+1
 const day = String(today.getDate()).padStart(2, '0');
-const fullPath = path.join(process.cwd(), targetPath, `${year}-${month}-${fileName}.md`);
-const formattedDate = `${year}-${month}-${day}`;
+const fullPath = path.join(process.cwd(), 'src', targetPath, `${year}-${month}-${fileName}.md`);
+const formattedDate = `${year}-${month}-${day} 19:00:00`; // 時刻は固定で19:00:00に設定
 
 // Markdownのコンテンツ
 const content = `---

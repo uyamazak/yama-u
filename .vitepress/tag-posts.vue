@@ -5,7 +5,7 @@
   </div>
 </template>
 <script setup>
-import { data as posts } from '../index.data.mjs'
+import { data as posts } from '../src/index.data.mjs'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import PostsList from '../.vitepress/posts-list.vue'

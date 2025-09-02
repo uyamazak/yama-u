@@ -10,8 +10,6 @@ lastUpdated: 2025-07-11
 
 大学時代もブログやらFlashなどを触りながら卒業後はそのままWEBサイト制作、WEBプログラマーとなり、現在までWEBサービスの開発、運用を仕事にしています。
 
-仕事でもVueやNuxt、TypeScript, Google Cloud, Firebaseを使っているので、このサイトの技術剪定にも影響しています。
-
 コロナ禍あたりから、自然で遊ぶことの楽しさを再発見し、枝拾いからの焚火、虫採り、釣り、スキーなどをしています。
 
 [お問い合わせはこちら](https://docs.google.com/forms/d/e/1FAIpQLScZULbUV8TT8dPeRIs1EOGr2-RXA0YEQkC1mRKtD4ucNwqiZg/viewform?usp=dialog)（Googleフォーム）

@@ -26,6 +26,7 @@ export default async () => {
     title: siteTitle,
     titleTemplate: `枝と焚火とアニメ`,
     description: "枝と焚火とアニメの自作テキストサイト",
+    srcDir: './src',
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }],
       [

@@ -155,3 +155,6 @@ Amazon Prime Videoでは3話が`13+`, 6話が`7+`の年齢制限が付けられ�
 
 [瑠璃の宝石 1 (ハルタコミックス) ](https://amzn.to/45IzMKJ)
 
+[瑠璃の宝石 2 (HARTA COMIX)](https://amzn.to/45LW8uN)
+[瑠璃の宝石 3 (HARTA COMIX)](https://amzn.to/4lVmxem)
+[瑠璃の宝石 4 (HARTA COMIX)](https://amzn.to/4lWUcEv)

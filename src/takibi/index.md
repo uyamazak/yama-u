@@ -13,8 +13,8 @@ description: 枝を拾って作った薪を燃やす焚火のこと、キャン�
 import { data as posts } from './index.data'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
-import PostsList from '../.vitepress/posts-list.vue'
-import { sortPosts } from '../utils'
+import PostsList from '../../.vitepress/posts-list.vue'
+import { sortPosts } from '../../utils'
 const { frontmatter } = useData()
 const childs = computed(() => {
   return sortPosts(posts, frontmatter)

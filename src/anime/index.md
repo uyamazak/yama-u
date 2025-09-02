@@ -14,8 +14,8 @@ description: 主に配信で見たアニメの感想や考察を書いてます�
 import { data as posts } from './index.data'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
-import PostsList from '../.vitepress/posts-list.vue'
-import { sortPosts } from '../utils'
+import PostsList from '../../.vitepress/posts-list.vue'
+import { sortPosts } from '../../utils'
 const { frontmatter } = useData()
 const childs = computed(() => {
   return sortPosts(posts, frontmatter)
