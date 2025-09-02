@@ -19,4 +19,4 @@ Cloudflare Pagesも試してみて、その問題は解決したものの、URL�
 
 Cloudflareの末尾.html削除リダイレクトは、困っている人が多いようで、同じ様な議題が[Cloudflare Community](https://community.cloudflare.com/t/cloudflare-pages-get-rid-of-redundat-308-redirect/324582)にあった。
 
-速度も早いし、いいサービスなのに、なぜ余計なリダイレクトを無効にするオプションを用意しないのか不思議。
+Cloudflareでドメインを取得しているので連携は便利だし、速度も早いし、いいサービスなのに、なぜ余計なリダイレクトを無効にするオプションを用意しないのか不思議。
