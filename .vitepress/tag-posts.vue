@@ -11,16 +11,18 @@ import { computed } from 'vue'
 import PostsList from '../.vitepress/posts-list.vue'
 import { sortPosts } from '../utils.mts'
 const { frontmatter, page } = useData()
+const tags = computed(() => {
+  return frontmatter.value.tags || []
+})
 const isIndex = computed(() => page.value.filePath.endsWith('index.md'))
-const tags = frontmatter.value.tags
 const tagPosts = computed(() => {
-  if (!tags || !tags.length) return []
+  if (!tags.value.length) return []
   if (isIndex.value) return []
   const allposts = sortPosts(posts, frontmatter)
   return allposts.filter(post => {
     const postTags = post.frontmatter.tags
     if (!postTags ||!postTags.length) return false
-    return tags.some(tag => postTags.includes(tag))
+    return tags.value.some(tag => postTags.includes(tag))
   })
 })
 </script>
