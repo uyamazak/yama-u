@@ -25,7 +25,7 @@ published: 2025-9-02 19:15:00
 * [第6回「モース硬度」｜『も～っと！鉱物生活のススメ！』](http://www.youtube.com/watch?v=OmBB3GJWmGM)
 * [第7回「銀化ガラス」｜『も～っと！鉱物生活のススメ！』](http://www.youtube.com/watch?v=DDH87bGvI7c)
 * [第8回「鉱山とその施設」｜『も～っと！鉱物生活のススメ！』](http://www.youtube.com/watch?v=GrnncpDdHAQ)
-
+* [第9回「石英の様々な呼び方」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=VhvOv12qIkc)
 ### 予告動画
 
 * [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第1話『はじめての鉱物採集』2025年7月6日21時30分より順次放送開始！](http://www.youtube.com/watch?v=Ai7ky0Ocd08)

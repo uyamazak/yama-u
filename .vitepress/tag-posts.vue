@@ -1,6 +1,6 @@
 <template>
   <div v-if="tagPosts.length">
-    <h2 class="tags-title">他の「{{ tags.join(', ') }}」</h2>
+    <h2 class="tags-title">「{{ tags.join(', ') }}」の記事</h2>
     <PostsList :posts="tagPosts" />
   </div>
 </template>

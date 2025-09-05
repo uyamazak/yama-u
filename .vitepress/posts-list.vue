@@ -32,6 +32,7 @@ ul.post-list {
   align-items: baseline;
   text-decoration: none;
   margin-bottom: 0.5em;
+  border-radius: .4em;
 }
 .post-link:hover {
   background-color: #eee;
@@ -41,14 +42,16 @@ ul.post-list {
 }
 .post-date {
   font-size: .75rem;
-  padding-left: .5rem;
+  padding-left: .4rem;
   color: #777;
   font-family: 'Space Mono', 'Roboto Mono', 'Noto Sans Mono', monospace;
   font-variant-numeric: tabular-nums;
   font-weight: lighter;
 }
 .dark .post-date {
-  color: #ccc;
+  color: #ddd;
 }
-
+.category {
+  margin-right: .25em;
+}
 </style>

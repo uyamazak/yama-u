@@ -7,9 +7,9 @@ hero:
   text: 焚火とアニメとポエムの<br>ホームページ
   tagline: やりたいことないから、アニメみて焚き火してなんか書く
   image:
-    light: /img/photo-yakan-640.webp
-    dark: /img/photo-yakan-ame-640.webp
-    alt: 枝焚火と薬缶
+    light: /img/article-default.webp
+    dark: /img/article-default.webp
+    alt: 焚火
   actions:
     - theme: alt
       text: このサイトについて

@@ -19,7 +19,8 @@ published: 2025-9-02 19:15:00
 * [ミニアニメ「おブスに花束を」第5話](https://www.youtube.com/watch?v=XcurpZRP_ow)
 * [ミニアニメ「おブスに花束を」第6話](https://www.youtube.com/watch?v=lVRE8RBgM1k)
 * [ミニアニメ「おブスに花束を」第7話](https://www.youtube.com/watch?v=qaNiU5khLeU)
-
+* [ミニアニメ「おブスに花束を」第8話](https://www.youtube.com/watch?v=2mCRvZZb55g)
+  
 ### 原作コミック
 
 2022年にすでに完結していますが、13巻はアニメ化に合わせて発売、その後を描いたお話だそうです。
