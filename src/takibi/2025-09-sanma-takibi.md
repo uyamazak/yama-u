@@ -7,7 +7,7 @@ tags:
   - 枝
 ---
 
-<YouTube id="pP4whl6hZF0" aspect="16:9" />
+<YouTube id="pP4whl6hZF0" aspect="9:16" />
 
 台風も過ぎた9/7、最高気温も33度を超えるなか、いつもの彩湖道満グリーンパークでサンマを焼いてきました。
 
