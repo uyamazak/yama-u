@@ -5,10 +5,10 @@ layout: home
 hero:
   name: やまユー
   text: 焚火とアニメとポエムの<br>ホームページ
-  tagline: やりたいことないから、アニメみて焚き火してなんか書く
+  tagline: 🌾やりたいことないから、アニメみて焚き火してなんか書く🎑
   image:
-    light: /img/article-default.webp
-    dark: /img/article-default.webp
+    light: /img/20250907-sanma.jpg
+    dark: /img/20250907-sanma.jpg
     alt: 焚火
   actions:
     - theme: alt
