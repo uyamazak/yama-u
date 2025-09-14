@@ -6,6 +6,10 @@ published: 2025-9-02 19:15:00
 
 [「瑠璃の宝石」TVアニメ公式サイト](https://rurinohouseki.com/)
 
+## 公式図鑑（2025/9/12発売）
+
+[瑠璃の宝石 公式図鑑 鉱物生活のススメ (ハルタコミックス) ](https://amzn.to/46hpHDk)
+
 ## 公式YouTube動画
 
 ### 日本のあちこちイッテ鉱！
@@ -14,6 +18,7 @@ published: 2025-9-02 19:15:00
 - [第2回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=2sI99P9J9xA)
 - [第3回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=X7hkaZW4JMM)
 - [第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
+- [第5回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=t0dbOUgIMI0)
 
 ### も～っと！鉱物生活のススメ！
 
@@ -55,6 +60,8 @@ published: 2025-9-02 19:15:00
 * [「ミネラルRadio」 第7回｜TVアニメ「瑠璃の宝石」WEBラジオ](http://www.youtube.com/watch?v=VExU22hg8j4)
 * [「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](http://www.youtube.com/watch?v=hNgIUYQYVtU)
 * [「ミネラルRadio」 第9回｜TVアニメ「瑠璃の宝石」WEBラジオ](http://www.youtube.com/watch?v=bI4m4gTdQOg)
+* [「ミネラルRadio」 第10回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=XkvKbg3SwJM)
+
 
 ### 原作コミックス
 
@@ -64,3 +71,4 @@ published: 2025-9-02 19:15:00
 - [瑠璃の宝石 4 (ハルタコミックス)](https://amzn.to/4g7TtPw)
 - [瑠璃の宝石 5 (ハルタコミックス)](https://amzn.to/4g7ioTl)
 - [瑠璃の宝石 6 (ハルタコミックス)](https://amzn.to/4ndKizq)
+
