@@ -31,6 +31,7 @@ published: 2025-9-02 19:15:00
 * [第7回「銀化ガラス」｜『も～っと！鉱物生活のススメ！』](http://www.youtube.com/watch?v=DDH87bGvI7c)
 * [第8回「鉱山とその施設」｜『も～っと！鉱物生活のススメ！』](http://www.youtube.com/watch?v=GrnncpDdHAQ)
 * [第9回「石英の様々な呼び方」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=VhvOv12qIkc)
+* [第10回「日本で採れるマンガン」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=HsCAd8UiKgU)
   
 ### 予告動画
 
@@ -44,6 +45,7 @@ published: 2025-9-02 19:15:00
 * [明日の硝子ちゃん｜TVアニメ「瑠璃の宝石」第8話『黄昏色のエレジー』2025年8月24日21時30分より順次放送開始！](http://www.youtube.com/watch?v=cxHwLAX4Udc)
 * [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](http://www.youtube.com/watch?v=7g5z5_Q_z7o)
 * [明日の曜子ちゃん｜TVアニメ「瑠璃の宝石」第10話『ワンセンテンスの廃線路』2025年9月7日21時30分より順次放送開始！](https://www.youtube.com/watch?v=fnhE7eFiq_Y)
+* [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第11話『サファイアのゆりかご』2025年9月14日21時30分より順次放送開始！](https://www.youtube.com/watch?v=FioDKn3ktNQ)
 
 ### OP,ED
 - [「瑠璃の宝石」ノンクレジットオープニング映像｜安田レイ『光のすみか』](https://www.youtube.com/watch?v=YDOARwO2SNk)
@@ -61,6 +63,7 @@ published: 2025-9-02 19:15:00
 * [「ミネラルRadio」 第8回｜TVアニメ「瑠璃の宝石」WEBラジオ](http://www.youtube.com/watch?v=hNgIUYQYVtU)
 * [「ミネラルRadio」 第9回｜TVアニメ「瑠璃の宝石」WEBラジオ](http://www.youtube.com/watch?v=bI4m4gTdQOg)
 * [「ミネラルRadio」 第10回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=XkvKbg3SwJM)
+* [「ミネラルRadio」 第11回｜TVアニメ「瑠璃の宝石」WEBラジオ](https://www.youtube.com/watch?v=qXp8DM02usM)
 
 
 ### 原作コミックス
