@@ -14,6 +14,7 @@ published: 2025-9-02 19:15:00
 
 ### 日本のあちこちイッテ鉱！
 
+
 - [第1回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=VuFUsuCzqhw)
 - [第2回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=2sI99P9J9xA)
 - [第3回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=X7hkaZW4JMM)
@@ -32,6 +33,7 @@ published: 2025-9-02 19:15:00
 * [第8回「鉱山とその施設」｜『も～っと！鉱物生活のススメ！』](http://www.youtube.com/watch?v=GrnncpDdHAQ)
 * [第9回「石英の様々な呼び方」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=VhvOv12qIkc)
 * [第10回「日本で採れるマンガン」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=HsCAd8UiKgU)
+* [第11回「顕微鏡と新しい世界」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=WG09GLSxo80)
   
 ### 予告動画
 
@@ -46,6 +48,8 @@ published: 2025-9-02 19:15:00
 * [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第9話『１９０万トンのタイムカプセル』2025年8月31日21時30分より順次放送開始！](http://www.youtube.com/watch?v=7g5z5_Q_z7o)
 * [明日の曜子ちゃん｜TVアニメ「瑠璃の宝石」第10話『ワンセンテンスの廃線路』2025年9月7日21時30分より順次放送開始！](https://www.youtube.com/watch?v=fnhE7eFiq_Y)
 * [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第11話『サファイアのゆりかご』2025年9月14日21時30分より順次放送開始！](https://www.youtube.com/watch?v=FioDKn3ktNQ)
+* [明日の葵ちゃん｜TVアニメ「瑠璃の宝石」第12話『想い出は石とノイズと』2025年9月21日21時30分より順次放送開始！](https://www.youtube.com/watch?v=HZKzrnPexyk)
+
 
 ### OP,ED
 - [「瑠璃の宝石」ノンクレジットオープニング映像｜安田レイ『光のすみか』](https://www.youtube.com/watch?v=YDOARwO2SNk)
