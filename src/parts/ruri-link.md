@@ -20,6 +20,7 @@ published: 2025-9-02 19:15:00
 - [第3回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=X7hkaZW4JMM)
 - [第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
 - [第5回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=t0dbOUgIMI0)
+- [第6回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=OC8vjaah7n4)
 
 ### も～っと！鉱物生活のススメ！
 

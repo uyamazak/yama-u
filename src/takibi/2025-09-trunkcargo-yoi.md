@@ -1,6 +1,6 @@
 ---
 title: トランクカーゴ TC-50S LOWに枝を入れてみた
-lastUpdated: 2025-09-14 16:00:00
+lastUpdated: 2025-09-25 11:00:00
 published: 2025-09-14 16:00:00
 tags:
   - トランクカーゴ
@@ -36,6 +36,12 @@ https://www.youtube.com/post/Ugkx0NjEBZakj89AJa8cR3oldnm_7Vfm1boh
 オリジナルサイズには仕切り板を入れる溝もないので今後も発売することはなさそうです。
 
 オリジナルサイズはもっと大きいものを入れたり、[メッシュカーゴ・インナーカーゴ](https://www.trunkcargo.jp/series/mesh_innercargo/)があるのでそちらを使う想定でしょう。
+
+### 2025/9/25追記
+
+2025/9/21に[深型サイズのトランクカーゴに対応した仕切板が登場](https://www.trunkcargo.jp/journal/0921trunkcargodivider/) しました
+
+
 
 ## 多少乾きやすい
 
