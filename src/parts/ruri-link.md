@@ -12,6 +12,9 @@ published: 2025-9-02 19:15:00
 
 ## 公式YouTube動画
 
+[TVアニメ「瑠璃の宝石」最終話同時視聴会 by ミネラルRadio｜2025年9月28日22時10分より配信予定](https://www.youtube.com/watch?v=IeoAVpJtAcA)
+
+
 ### 日本のあちこちイッテ鉱！
 
 
