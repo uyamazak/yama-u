@@ -80,6 +80,7 @@ export default async () => {
       ],
       socialLinks: [
         { icon: 'youtube', link: 'https://www.youtube.com/@yama-u-eda' },
+        { icon: 'instagram', link: 'https://www.instagram.com/yama_u_com' },
         { icon: 'x', link: 'https://x.com/yama_u_com' }
       ],
       footer: {
@@ -110,7 +111,8 @@ export default async () => {
             },
           },
         },
-      }
+      },
+      outline: {label: '目次'}
     },
     vite: {
       plugins: [pagefindPlugin({
