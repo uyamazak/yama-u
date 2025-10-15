@@ -17,13 +17,13 @@ published: 2025-9-02 19:15:00
 
 ### 日本のあちこちイッテ鉱！
 
-
 - [第1回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=VuFUsuCzqhw)
 - [第2回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=2sI99P9J9xA)
 - [第3回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=X7hkaZW4JMM)
 - [第4回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=MZ6ZFegDksw)
 - [第5回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=t0dbOUgIMI0)
 - [第6回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=OC8vjaah7n4)
+- [第7回『日本のあちこちイッテ鉱！』](https://www.youtube.com/watch?v=tFK96qwAVz8)
 
 ### も～っと！鉱物生活のススメ！
 
@@ -38,7 +38,9 @@ published: 2025-9-02 19:15:00
 * [第9回「石英の様々な呼び方」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=VhvOv12qIkc)
 * [第10回「日本で採れるマンガン」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=HsCAd8UiKgU)
 * [第11回「顕微鏡と新しい世界」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=WG09GLSxo80)
-  
+* [第12回「鉱石ラジオ」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=7v5jLnKKgsQ)
+* [最終回「隕石」｜『も～っと！鉱物生活のススメ！』](https://www.youtube.com/watch?v=K0V88fsYuWU)
+
 ### 予告動画
 
 * [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第1話『はじめての鉱物採集』2025年7月6日21時30分より順次放送開始！](http://www.youtube.com/watch?v=Ai7ky0Ocd08)
@@ -53,6 +55,7 @@ published: 2025-9-02 19:15:00
 * [明日の曜子ちゃん｜TVアニメ「瑠璃の宝石」第10話『ワンセンテンスの廃線路』2025年9月7日21時30分より順次放送開始！](https://www.youtube.com/watch?v=fnhE7eFiq_Y)
 * [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第11話『サファイアのゆりかご』2025年9月14日21時30分より順次放送開始！](https://www.youtube.com/watch?v=FioDKn3ktNQ)
 * [明日の葵ちゃん｜TVアニメ「瑠璃の宝石」第12話『想い出は石とノイズと』2025年9月21日21時30分より順次放送開始！](https://www.youtube.com/watch?v=HZKzrnPexyk)
+* [明日の瑠璃ちゃん｜TVアニメ「瑠璃の宝石」第13話『見上げて覗いて探して、次！』2025年9月28日21時30分より順次放送開始！](https://www.youtube.com/watch?v=0JLirG3KLDg)
 
 
 ### OP,ED
