@@ -57,12 +57,12 @@ export default async () => {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
         { text: '🏡ホーム', link: '/' },
-        { text: '🎑このサイトについて', link: '/about.html' },
+        { text: '🍁このサイトについて', link: '/about.html' },
         ...categories
       ],
       sidebar: [
         {
-          text: '🎑このサイトについて',
+          text: '🍁このサイトについて',
           link: '/about.html',
         },
         {
