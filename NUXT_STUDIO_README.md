@@ -150,6 +150,29 @@ ls -la | grep content
 # 表示例: lrwxrwxrwx 1 runner runner 3 Feb 10 06:20 content -> src
 ```
 
+### oxc-parserのネイティブバインディングエラー
+
+`npm run studio:dev`で以下のエラーが出る場合:
+
+```
+ERROR  Cannot find native binding. npm has a bug related to optional dependencies
+Cannot find module '@oxc-parser/binding-linux-x64-gnu'
+```
+
+**解決方法:**
+
+1. package-lock.jsonとnode_modulesを削除:
+```bash
+rm -rf package-lock.json node_modules
+```
+
+2. 再インストール:
+```bash
+npm install
+```
+
+このエラーはnpmのオプショナル依存関係の処理に関する既知の問題です。パッケージには`@oxc-parser/binding-linux-x64-gnu`が明示的に含まれているため、クリーンインストールで解決します。
+
 ## 今後の改善予定
 
 - [ ] Nuxt Content v3 クエリAPIの完全な統合
