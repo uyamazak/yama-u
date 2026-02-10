@@ -21,5 +21,8 @@
     "studio:preview": "nuxt preview",
     "g": "node scripts/generate-post.mjs",
     "u": "git add -A && git commit -m 'update' && git push"
+  },
+  "dependencies": {
+    "@oxc-transform/binding-linux-x64-gnu": "^0.112.0"
   }
 }
