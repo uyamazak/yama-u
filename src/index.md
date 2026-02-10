@@ -5,7 +5,7 @@ layout: home
 hero:
   name: やまユー
   text: 焚火とアニメとポエムの<br>ホームページ
-  tagline: 🍂焚火は拾った枝がいい🌰
+  tagline: 💮焚火は拾った枝がいい🐎
   image:
     light: /img/20250907-sanma.jpg
     dark: /img/20250907-sanma.jpg
