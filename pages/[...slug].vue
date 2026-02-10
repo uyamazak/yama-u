@@ -24,9 +24,18 @@
 
 <script setup>
 const route = useRoute()
-const { data: doc } = await useAsyncData('content-' + route.path, () => 
-  queryContent(route.path).findOne()
-)
+const doc = ref(null)
+
+try {
+  const results = await queryCollection('content')
+    .where('_path', '=', route.path)
+    .limit(1)
+  if (results && results.length > 0) {
+    doc.value = results[0]
+  }
+} catch (error) {
+  console.error('Failed to load content:', error)
+}
 </script>
 
 <style scoped>

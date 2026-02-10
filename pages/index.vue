@@ -23,23 +23,45 @@
 
       <h3>最近の記事</h3>
       <ul v-if="articles && articles.length > 0">
-        <li v-for="article in articles" :key="article._path">
+        <li v-for="article in articles" :key="article._id">
           <NuxtLink :to="article._path">{{ article.title || article._path }}</NuxtLink>
           <span v-if="article.published"> - {{ article.published }}</span>
         </li>
       </ul>
-      <p v-else>記事が見つかりませんでした。</p>
+      <p v-else-if="error">エラーが発生しました: {{ error }}</p>
+      <p v-else>{{ articles }}</p>
     </main>
   </div>
 </template>
 
 <script setup>
-const { data: articles } = await useAsyncData('articles', () => 
-  queryContent('/')
-    .sort({ published: -1 })
+const articles = ref([])
+const error = ref(null)
+
+try {
+  const results = await queryCollection('content')
+    .order('published', 'DESC')
     .limit(20)
-    .find()
-)
+  
+  console.log('Results type:', typeof results, 'Is array:', Array.isArray(results))
+  console.log('Results:', results)
+  
+  // Check if results is iterable
+  if (results && Symbol.iterator in Object(results)) {
+    articles.value = Array.from(results).map(item => ({
+      _id: item._id,
+      _path: item._path,
+      title: item.title,
+      published: item.published,
+      lastUpdated: item.lastUpdated
+    }))
+  } else {
+    error.value = "Results is not iterable"
+  }
+} catch (err) {
+  console.error('Failed to load articles:', err)
+  error.value = err.message
+}
 </script>
 
 <style scoped>
