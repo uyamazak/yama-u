@@ -1,5 +1,6 @@
 ---
 title: 竹は焚火の薪に向いていない理由
+short_slug: 2025-08-take-sonomamamoyasu-kiken
 lastUpdated: 2025-08-21
 published: 2025-08-21
 ---

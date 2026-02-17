@@ -1,5 +1,6 @@
 ---
 title: 山フライパン17cm深型（UNIFLAME）を買った
+short_slug: 2025-10-uniflame-yama-fylpan-fukagata
 lastUpdated: 2025-10-15 19:00:00
 published: 2025-10-15 19:00:00
 tags:

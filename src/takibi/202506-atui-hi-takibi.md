@@ -1,5 +1,6 @@
 ---
 title: 夏の暑い日に汗だくで焚き火してきた
+short_slug: 202506-atui-hi-takibi
 lastUpdated: 2025-07-03
 published: 2025-06-30
 ---

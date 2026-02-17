@@ -1,5 +1,6 @@
 ---
 title: 「合理的」は正しいとは限らない
+short_slug: 2025-07-goriteki-tadasikunai
 lastUpdated: 2025-07-04 
 published: 2025-07-04
 ---

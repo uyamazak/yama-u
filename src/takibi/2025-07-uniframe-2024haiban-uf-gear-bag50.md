@@ -1,5 +1,6 @@
 ---
 title: 2024年廃盤 UFギアバック50＆ステンレスワイヤー網 150×400を買った
+short_slug: 2025-07-uniframe-2024haiban-uf-gear-bag50
 lastUpdated: 2025-07-16 
 published: 2025-07-16
 tags:

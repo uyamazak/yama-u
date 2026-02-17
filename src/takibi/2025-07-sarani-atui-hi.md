@@ -1,5 +1,6 @@
 ---
 title: 7月彩湖 最高気温34度 ガンガン焚火をしてきた
+short_slug: 2025-07-sarani-atui-hi
 lastUpdated: 2025-07-06
 published: 2025-07-06
 ---

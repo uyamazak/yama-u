@@ -1,5 +1,6 @@
 ---
 title: 焚火台2台で大量の薪で業火を楽しんだ
+short_slug: 2025-11-2dai-de-daikaryoku
 lastUpdated: 2025-11-26 19:00:00
 published: 2025-11-26 19:00:00
 ---

@@ -1,5 +1,6 @@
 ---
 title: 野生のラスボスが現れた！第6話まで感想
+short_slug: 2025-11-lastboss-anime-06
 lastUpdated: 2025-11-13 19:00:00
 published: 2025-11-13 19:00:00
 ---

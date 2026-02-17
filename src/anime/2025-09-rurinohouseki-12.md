@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第12話「想い出は石とノイズと」感想 鉱石ラジオと葵ちゃん
+short_slug: 2025-09-rurinohouseki-12
 lastUpdated: 2025-09-22 19:15:00
 published: 2025-9-22 19:15:00
 description: 

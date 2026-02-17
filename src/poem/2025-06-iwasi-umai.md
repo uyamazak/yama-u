@@ -1,5 +1,6 @@
 ---
 title: 2025年の梅雨はイワシが美味しい
+short_slug: 2025-06-iwasi-umai
 lastUpdated: 2025-06-30
 published: 2025-06-30
 ---

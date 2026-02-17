@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第11話「友達のままじゃいられない」感想 ついに振られる鶯谷
+short_slug: 2025-09-busu-ni-hanataba-11
 lastUpdated: 2025-09-14 14:15:00
 published: 2025-09-14 14:15:00
 description: 

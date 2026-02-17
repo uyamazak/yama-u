@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第20話「鍛冶屋はBBQの夢を見るか」感想
+short_slug: 2025-11-tondemoskill2-20
 lastUpdated: 2025-11-26 19:15:00
 published: 2025-11-26 19:15:00
 tags:

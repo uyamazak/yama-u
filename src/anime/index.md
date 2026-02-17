@@ -1,5 +1,6 @@
 ---
 title: アニメ
+short_slug: index
 published: 2025-06-24
 lastUpdated: 2025-06-24
 description: 主に配信で見たアニメの感想や考察を書いてます。ネタバレありです。

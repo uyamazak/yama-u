@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第12話「名前のつかない関係」感想 ついに上野が告白
+short_slug: 2025-09-busu-ni-hanataba-12
 lastUpdated: 2025-09-22 19:10:00
 published: 2025-09-22 19:10:00
 description: 

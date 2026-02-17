@@ -1,5 +1,6 @@
 ---
 title: 焚火はやっぱり冬が良い
+short_slug: 2025-12-takibi-ha-huyuga-yoi
 lastUpdated: 2025-12-09 19:00:00
 published: 2025-12-09 19:00:00
 ---

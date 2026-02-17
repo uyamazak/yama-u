@@ -1,5 +1,6 @@
 ---
 title: 薪は水に漬けると割りやすい
+short_slug: 2025-10-hutoieda-huyakasite-waru
 lastUpdated: 2025-10-09 12:30:00
 published: 2025-10-09 12:30:00
 tags:

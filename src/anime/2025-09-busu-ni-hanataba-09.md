@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第9話「キミと花火が見たい」感想 一番かわいい花
+short_slug: 2025-09-busu-ni-hanataba-09
 lastUpdated: 2025-09-02 19:15:00
 published: 2025-09-02 19:15:00
 description: 

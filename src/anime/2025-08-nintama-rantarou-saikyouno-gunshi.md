@@ -1,5 +1,6 @@
 ---
 title: 劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師 感想
+short_slug: 2025-08-nintama-rantarou-saikyouno-gunshi
 lastUpdated: 2025-08-18 
 published: 2025-08-18
 description: Amazon Prime Video加入者は見るべき傑作アニメ

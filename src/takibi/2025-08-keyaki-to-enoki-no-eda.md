@@ -1,5 +1,6 @@
 ---
 title: ケヤキとエノキの小枝で無料の着火剤つくり
+short_slug: 2025-08-keyaki-to-enoki-no-eda
 lastUpdated: 2025-08-26
 published: 2025-08-26
 tags:

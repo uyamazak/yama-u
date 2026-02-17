@@ -1,5 +1,6 @@
 ---
 title: 夏の終わりに枝で焚火
+short_slug: 2025-09-natuno-owari-takibi
 lastUpdated: 2025-09-25 19:00:00
 published: 2025-09-25 19:00:00
 tags:

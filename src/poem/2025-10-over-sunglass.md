@@ -1,5 +1,6 @@
 ---
 title: メガネの上からかけるオーバーサングラスを買う
+short_slug: 2025-10-over-sunglass
 lastUpdated: 2025-10-03 19:00:00
 published: 2025-10-03 19:00:00
 ---

@@ -1,5 +1,6 @@
 ---
 title: クスノキの枯れ枝は焚き火によい
+short_slug: kusunoki
 lastUpdated: 2025-07-11
 published: 2025-06-01
 tags:

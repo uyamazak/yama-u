@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第4話「砂を繙く」感想
+short_slug: 2025-07-rurinohouseki-04
 lastUpdated: 2025-07-29 19:40:00
 published: 2025-07-29 19:40:00
 description: 砂の調査と科学的アプローチ、瀬戸硝子と笠丸葵の登場

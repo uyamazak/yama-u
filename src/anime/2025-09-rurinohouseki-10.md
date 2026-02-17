@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第10話「ワンセンテンスの廃線路」感想 伊万里さんがんばる
+short_slug: 2025-09-rurinohouseki-10
 lastUpdated: 2025-09-08 19:15:00
 published: 2025-9-08 19:15:00
 description: 

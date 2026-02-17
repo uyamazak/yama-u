@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第7話「渚のリサイクル工房」感想 待っていた硝子ちゃん回
+short_slug: 2025-08-rurinohouseki-07
 lastUpdated: 2025-08-20 12:45:00
 published: 2025-08-18 19:15:00
 description:  鉱石研究者志望だった硝子

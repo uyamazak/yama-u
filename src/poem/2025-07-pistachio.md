@@ -1,5 +1,6 @@
 ---
 title: ピスタチオはイラン産がうまいらしい
+short_slug: 2025-07-pistachio
 lastUpdated: 2025-07-10 
 published: 2025-07-10
 ---

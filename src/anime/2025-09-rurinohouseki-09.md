@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第9話「１９０万トンのタイムカプセル」感想 ダムと凪の大放出サービス回
+short_slug: 2025-09-rurinohouseki-09
 lastUpdated: 2025-09-01 19:15:00
 published: 2025-9-01 19:15:00
 description: ダムとオパールと凪の大放出回

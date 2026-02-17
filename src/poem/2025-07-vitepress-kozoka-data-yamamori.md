@@ -1,5 +1,6 @@
 ---
 title: VitePressで構造化データを山盛りにした
+short_slug: 2025-07-vitepress-kozoka-data-yamamori
 lastUpdated: 2025-07-18 
 published: 2025-07-18
 description: VitePressで構築したサイトに構造化データをてんこ盛りにした

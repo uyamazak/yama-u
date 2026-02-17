@@ -1,5 +1,6 @@
 ---
 title: アニメ「ふたりソロキャンプ」第1話感想
+short_slug: 2025-07-2solocamp
 lastUpdated: 2025-07-11 
 published: 2025-07-11
 tags:

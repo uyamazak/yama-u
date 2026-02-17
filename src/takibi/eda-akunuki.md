@@ -1,5 +1,6 @@
 ---
 title: 枝をアク抜きしてもっと燃える薪にする
+short_slug: eda-akunuki
 lastUpdated: 2025-06-02
 published: 2025-06-02
 ---

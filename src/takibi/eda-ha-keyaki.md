@@ -1,5 +1,6 @@
 ---
 title: けやきの枝からはじまった焚き火
+short_slug: eda-ha-keyaki
 lastUpdated: 2025-05-31
 published: 2025-05-31
 tags:

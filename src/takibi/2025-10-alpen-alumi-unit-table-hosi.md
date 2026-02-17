@@ -1,5 +1,6 @@
 ---
 title: タフまるを買ったらAlpenのアルミユニットテーブル110が欲しくなってきている
+short_slug: 2025-10-alpen-alumi-unit-table-hosi
 lastUpdated: 2025-10-24 19:00:00
 published: 2025-10-24 19:00:00
 ---

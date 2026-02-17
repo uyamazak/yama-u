@@ -1,5 +1,6 @@
 ---
 title: UNIFLAME 40周年記念薪グリルⅡ 富士山ver.を発売日に買った
+short_slug: 2025-07-makiguriru2-fujisan
 lastUpdated: 2025-07-12 
 published: 2025-07-12
 tags:

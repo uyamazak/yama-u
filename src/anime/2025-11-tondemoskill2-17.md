@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第17話「敵は魔物か空腹か」感想
+short_slug: 2025-11-tondemoskill2-17
 lastUpdated: 2025-11-05 19:15:00
 published: 2025-11-05 19:15:00
 tags:

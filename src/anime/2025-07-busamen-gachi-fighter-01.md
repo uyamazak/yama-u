@@ -1,5 +1,6 @@
 ---
 title: ブサメンガチファイター第1話 爆誕ガチゴッド感想
+short_slug: 2025-07-busamen-gachi-fighter-01
 lastUpdated: 2025-07-15 
 published: 2025-07-15
 ---

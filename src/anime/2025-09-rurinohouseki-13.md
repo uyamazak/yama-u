@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第13話「見上げて覗いて探して、次！」感想 温泉、隕石、未来の最終回
+short_slug: 2025-09-rurinohouseki-13
 lastUpdated: 2025-09-29 19:15:00
 published: 2025-9-29 19:15:00
 description: 

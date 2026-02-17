@@ -1,5 +1,6 @@
 ---
 title: 薪グリルⅡのケースにベルモントのTOKOBI タフトートがちょうどよさそう
+short_slug: 2025-08-maki-guriru-case-belmont
 lastUpdated: 2025-08-19 
 published: 2025-08-19
 description: UNIFLAMEの薪グリルⅡのケースにベルモントのTOKOBI タフトートがちょうどよさそう

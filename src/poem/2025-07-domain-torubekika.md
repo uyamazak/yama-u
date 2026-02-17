@@ -1,5 +1,6 @@
 ---
 title: 独自ドメイン取得するべきか
+short_slug: 2025-07-domain-torubekika
 lastUpdated: 2025-07-08 
 published: 2025-07-08
 tags:

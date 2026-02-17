@@ -1,5 +1,6 @@
 ---
 title: 酒粕と小豆を煮込んだスープ？が体に良さそう
+short_slug: 2025-12-sakekasu-azuki
 lastUpdated: 2025-12-02 19:00:00
 published: 2025-12-02 19:00:00
 ---

@@ -1,5 +1,6 @@
 ---
 title: 2025年春アニメ感想　薬屋と悪徳領主とガンダム
+short_slug: 2025-haru-anime
 lastUpdated: 2025-06-24
 published: 2025-06-24
 ---

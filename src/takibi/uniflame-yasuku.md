@@ -1,5 +1,6 @@
 ---
 title: UNIFLAME製品をファッションモールのクーポンを利用して安く買う
+short_slug: uniflame-yasuku
 lastUpdated: 2025-06-12
 published: 2025-06-12
 tags:

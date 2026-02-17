@@ -1,5 +1,6 @@
 ---
 title: AIだらけのこの時代にテキストサイトをつくる意味
+short_slug: 2025-07-zi-ku-text
 lastUpdated: 2025-07-02
 published: 2025-07-02
 tags:

@@ -1,5 +1,6 @@
 ---
 title: ブサメンガチファイター アニメ第5話 降臨ガチエンジェル感想
+short_slug: 2025-07-busamen-gachi-fighter-05
 lastUpdated: 2025-08-06 20:00:00
 published: 2025-08-06 19:55:00
 description: ガチ天使だった聖華

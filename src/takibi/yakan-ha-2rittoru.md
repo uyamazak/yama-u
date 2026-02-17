@@ -1,5 +1,6 @@
 ---
 title: 焚き火ケトルは2リットル
+short_slug: yakan-ha-2rittoru
 lastUpdated: 2025-06-02
 published: 2025-06-02
 ---

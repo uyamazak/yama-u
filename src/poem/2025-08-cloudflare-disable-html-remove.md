@@ -1,5 +1,6 @@
 ---
 title: Cloudflare Workersで末尾.html除去リダイレクトをやめさせる
+short_slug: 2025-08-cloudflare-disable-html-remove
 lastUpdated: 2025-08-18 
 published: 2025-08-18
 tags:

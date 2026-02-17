@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第8話「年に一度の主役日」感想
+short_slug: 2025-08-busu-ni-hanataba-08
 lastUpdated: 2025-08-25 19:15:00
 published: 2025-08-25 19:15:00
 description: ついに田端と上野が連絡先交換

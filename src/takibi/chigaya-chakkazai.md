@@ -1,5 +1,6 @@
 ---
 title: 千茅の穂をメタルマッチ着火のために集める
+short_slug: chigaya-chakkazai
 lastUpdated: 2025-06-06
 published: 2025-06-06
 ---

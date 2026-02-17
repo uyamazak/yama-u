@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第13話「どこにでもある恋の話」感想 ありのままで最終回
+short_slug: 2025-09-busu-ni-hanataba-13
 lastUpdated: 2025-09-29 19:10:00
 published: 2025-09-29 19:10:00
 description: 

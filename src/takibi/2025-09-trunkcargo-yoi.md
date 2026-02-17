@@ -1,5 +1,6 @@
 ---
 title: トランクカーゴ TC-50S LOWに枝を入れてみた
+short_slug: 2025-09-trunkcargo-yoi
 lastUpdated: 2025-09-25 11:00:00
 published: 2025-09-14 16:00:00
 tags:

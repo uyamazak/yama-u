@@ -1,5 +1,6 @@
 ---
 title: キャプテンスタッグの新商品「アルミ製 深型フライパン17cm」は定番「UNIFLAME 山フライパン17cm深型」に匹敵するか
+short_slug: 2025-10-captaionstug-almi-hukagata17cm
 lastUpdated: 2025-10-08 12:00:00
 published: 2025-10-08 12:00:00
 tags:

@@ -1,5 +1,6 @@
 ---
 title: アニメのEDで過去の名曲カバーを聞く＆知る
+short_slug: 2025-07-anime-cover-ed
 lastUpdated: 2025-07-15 
 published: 2025-07-15
 ---

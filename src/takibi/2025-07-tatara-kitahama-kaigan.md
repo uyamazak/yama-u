@@ -1,5 +1,6 @@
 ---
 title: 多田良北浜海岸キャンプ場で海遊びして一泊
+short_slug: 2025-07-tatara-kitahama-kaigan
 lastUpdated: 2025-07-28 
 published: 2025-07-28
 ---
