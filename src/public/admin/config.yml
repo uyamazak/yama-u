@@ -17,6 +17,8 @@ public_folder: "/img"
 locale: 'ja'
 
 collections:
+  # Slug format: {{published | date('YYYY-MM')}}-{{slug}}
+  # Example: 2025-07-my-article.md (months are zero-padded by the date filter)
   - name: "poem"
     label: "📖ポエム"
     folder: "src/poem"
