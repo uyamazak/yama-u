@@ -1,15 +1,15 @@
 # Decap CMS Configuration
 # 
 # For Netlify hosting with Netlify Identity:
-backend:
-  name: git-gateway
-  branch: main
+# backend:
+#  name: git-gateway
+#  branch: main
 
 # For GitHub-based authentication, use instead:
-# backend:
-#   name: github
-#   repo: uyamazak/yama-u
-#   branch: main
+backend:
+  name: github
+  repo: uyamazak/yama-u
+  branch: main
 
 media_folder: "src/public/img"
 public_folder: "/img"
