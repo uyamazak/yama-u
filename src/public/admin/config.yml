@@ -21,7 +21,7 @@ collections:
     label: "📖ポエム"
     folder: "src/poem"
     create: true
-    slug: "{{year}}-{{month}}-{{slug}}"
+    slug: "{{published | date('YYYY-MM')}}-{{slug}}"
     editor:
       preview: false
     fields:
@@ -36,7 +36,7 @@ collections:
     label: "🔥焚き火"
     folder: "src/takibi"
     create: true
-    slug: "{{year}}-{{month}}-{{slug}}"
+    slug: "{{published | date('YYYY-MM')}}-{{slug}}"
     editor:
       preview: false
     fields:
@@ -51,7 +51,7 @@ collections:
     label: "📺️アニメ"
     folder: "src/anime"
     create: true
-    slug: "{{year}}-{{month}}-{{slug}}"
+    slug: "{{published | date('YYYY-MM')}}-{{slug}}"
     editor:
       preview: false
     fields:
