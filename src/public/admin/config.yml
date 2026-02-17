@@ -25,46 +25,54 @@ collections:
     label: "📖ポエム"
     folder: "src/poem"
     create: true
-    slug: "{{published | date('YYYY-MM')}}-{{short_slug}}"
+    slug: "{{published}}-{{short_slug}}"
     editor:
       preview: false
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "URL Slug (英数字)", name: "short_slug", widget: "string", hint: "URLに使用される英数字の識別子です（例: my-first-post）", pattern: ['^[a-z0-9-]+$', "小文字の英数字とハイフンのみ使用できます"]}
-      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss", required: false}
+      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD"}
+      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD", required: false}
       - {label: "説明", name: "description", widget: "text", required: false}
       - {label: "タグ", name: "tags", widget: "list", required: false}
       - {label: "本文", name: "body", widget: "markdown"}
+    sortable_fields:
+      - "published"
+      - "lastUpdated"
 
   - name: "takibi"
     label: "🔥焚き火"
     folder: "src/takibi"
     create: true
-    slug: "{{published | date('YYYY-MM')}}-{{short_slug}}"
+    slug: "{{published}}-{{short_slug}}"
     editor:
       preview: false
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "URL Slug (英数字)", name: "short_slug", widget: "string", hint: "URLに使用される英数字の識別子です（例: my-first-post）", pattern: ['^[a-z0-9-]+$', "小文字の英数字とハイフンのみ使用できます"]}
-      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss", required: false}
+      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD"}
+      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD", required: false}
       - {label: "説明", name: "description", widget: "text", required: false}
       - {label: "タグ", name: "tags", widget: "list", required: false}
       - {label: "本文", name: "body", widget: "markdown"}
-
+    sortable_fields:
+      - "published"
+      - "lastUpdated"
   - name: "anime"
     label: "📺️アニメ"
     folder: "src/anime"
     create: true
-    slug: "{{published | date('YYYY-MM')}}-{{short_slug}}"
+    slug: "{{published}}-{{short_slug}}"
     editor:
       preview: false
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "URL Slug (英数字)", name: "short_slug", widget: "string", hint: "URLに使用される英数字の識別子です（例: my-first-post）", pattern: ['^[a-z0-9-]+$', "小文字の英数字とハイフンのみ使用できます"]}
-      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss", required: false}
+      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD"}
+      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD", required: false}
       - {label: "説明", name: "description", widget: "text", required: false}
       - {label: "タグ", name: "tags", widget: "list", required: false}
       - {label: "本文", name: "body", widget: "markdown"}
+    sortable_fields:
+      - "published"
+      - "lastUpdated"
