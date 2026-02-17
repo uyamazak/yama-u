@@ -9,7 +9,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "deploy": "vitepress build && firebase deploy",
-    "d": "vitepress build && firebase deploy",
+    "d": "vitepress build && firebase deploy --only hosting",
     "dev": "vitepress dev",
     "g": "node scripts/generate-post.mjs",
     "u": "git add -A && git commit -m 'update' && git push"
