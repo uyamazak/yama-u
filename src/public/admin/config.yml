@@ -1,0 +1,63 @@
+# Decap CMS Configuration
+# 
+# For Netlify hosting with Netlify Identity:
+backend:
+  name: git-gateway
+  branch: main
+
+# For GitHub-based authentication, use instead:
+# backend:
+#   name: github
+#   repo: uyamazak/yama-u
+#   branch: main
+
+media_folder: "src/public/img"
+public_folder: "/img"
+
+locale: 'ja'
+
+collections:
+  - name: "poem"
+    label: "📖ポエム"
+    folder: "src/poem"
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss"}
+      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss", required: false}
+      - {label: "説明", name: "description", widget: "text", required: false}
+      - {label: "タグ", name: "tags", widget: "list", required: false}
+      - {label: "本文", name: "body", widget: "markdown"}
+
+  - name: "takibi"
+    label: "🔥焚き火"
+    folder: "src/takibi"
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss"}
+      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss", required: false}
+      - {label: "説明", name: "description", widget: "text", required: false}
+      - {label: "タグ", name: "tags", widget: "list", required: false}
+      - {label: "本文", name: "body", widget: "markdown"}
+
+  - name: "anime"
+    label: "📺️アニメ"
+    folder: "src/anime"
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "published", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss"}
+      - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD HH:mm:ss", required: false}
+      - {label: "説明", name: "description", widget: "text", required: false}
+      - {label: "タグ", name: "tags", widget: "list", required: false}
+      - {label: "本文", name: "body", widget: "markdown"}
