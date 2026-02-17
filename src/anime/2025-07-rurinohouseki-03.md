@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第3話「残された恒星」感想
+short_slug: 2025-07-rurinohouseki-03
 lastUpdated: 2025-07-22 12:20:00
 published: 2025-07-22 12:20:00
 description: メガネっ子伊万里曜子が登場するし廃坑へ。13歳以上のレーティングの真意とは

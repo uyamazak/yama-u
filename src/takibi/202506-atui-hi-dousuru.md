@@ -1,5 +1,6 @@
 ---
 title: 暑い日焚火どうする問題
+short_slug: 202506-atui-hi-dousuru
 lastUpdated: 2025-06-21
 published: 2025-06-21
 ---

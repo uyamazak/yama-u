@@ -1,5 +1,6 @@
 ---
 title: 40周年記念スティックターボⅡLTD初使用とミンミンゼミ
+short_slug: 2025-08-stick-turbo-2-ltd-debut
 lastUpdated: 2025-08-13 19:55:00
 published: 2025-08-13 19:55:00
 tags:

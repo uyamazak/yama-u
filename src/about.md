@@ -1,5 +1,6 @@
 ---
 title: このサイトについて
+short_slug: about
 published: 2025-07-04
 lastUpdated: 2025-10-17
 tags:

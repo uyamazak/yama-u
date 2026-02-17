@@ -1,5 +1,6 @@
 ---
 title: 「下級」を「初級」と言い換える優しさ
+short_slug: 2025-07-kakyu-to-syokyu
 lastUpdated: 2025-07-12 
 published: 2025-07-12
 ---

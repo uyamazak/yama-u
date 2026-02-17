@@ -1,5 +1,6 @@
 ---
 title: TVアニメ「宇宙人ムームー」連続2クール放送に驚く
+short_slug: 202507-mumu-2cool-datta
 lastUpdated: 2025-07-03 
 published: 2025-07-03
 ---

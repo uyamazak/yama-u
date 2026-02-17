@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第11話「サファイアのゆりかご」感想 瑠璃の進路と本当の青龍児
+short_slug: 2025-09-rurinohouseki-11
 lastUpdated: 2025-09-16 19:15:00
 published: 2025-9-16 19:15:00
 description: 

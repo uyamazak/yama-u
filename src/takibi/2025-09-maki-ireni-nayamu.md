@@ -1,5 +1,6 @@
 ---
 title: 薪を入れる箱、ダンボールをやめてトランクカーゴにしようか
+short_slug: 2025-09-maki-ireni-nayamu
 lastUpdated: 2025-09-09 19:00:00
 published: 2025-09-09 19:00:00
 tags:

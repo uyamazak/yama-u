@@ -1,5 +1,6 @@
 ---
 title: Firebase HostingからCloudflare Workersへ移行した
+short_slug: 2025-08-firebase-hosting-to-cloudflare-workers
 lastUpdated: 2025-08-14 19:15:00
 published: 2025-08-14 19:15:00
 tags:

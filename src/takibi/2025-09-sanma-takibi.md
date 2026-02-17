@@ -1,5 +1,6 @@
 ---
 title: 豊漁サンマを焚火で焼いて味わう
+short_slug: 2025-09-sanma-takibi
 lastUpdated: 2025-09-08 19:00:00
 published: 2025-09-08 19:00:00
 description: 2025年のサンマは豊漁、焚火でもうまく焼けるのか

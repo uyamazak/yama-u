@@ -1,5 +1,6 @@
 ---
 title: トランクカーゴ TC-50S LOWをリス公式で購入
+short_slug: 2025-09-trunkcargo-tc50s-low-katta
 lastUpdated: 2025-09-12 19:00:00
 published: 2025-09-12 19:00:00
 tags:

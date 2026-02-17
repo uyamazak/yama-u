@@ -1,5 +1,6 @@
 ---
 title: ホスティングをCloudflareからFirebaseに戻した
+short_slug: 2025-09-cloudflare-hosting-yameta
 lastUpdated: 2025-09-02
 published: 2025-09-02
 tags:

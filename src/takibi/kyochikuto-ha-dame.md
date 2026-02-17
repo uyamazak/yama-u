@@ -1,5 +1,6 @@
 ---
 title: 夾竹桃（キョウチクトウ）は猛毒、薪にしちゃだめ
+short_slug: kyochikuto-ha-dame
 lastUpdated: 2025-06-03
 published: 2025-06-03
 ---

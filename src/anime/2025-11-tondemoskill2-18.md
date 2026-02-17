@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第18話「ネットスーパー、レベルアップする」感想
+short_slug: 2025-11-tondemoskill2-18
 lastUpdated: 2025-11-13 19:15:00
 published: 2025-11-13 19:15:00
 tags:

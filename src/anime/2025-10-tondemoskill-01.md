@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第13話「新たな仲間はとんでもない」感想
+short_slug: 2025-10-tondemoskill-01
 lastUpdated: 2025-10-08 19:00:00
 published: 2025-10-08 19:00:00
 tags:

@@ -1,5 +1,6 @@
 ---
 title: BUNDOKの焚火台 Lotus+はよいぞ ＆ 新しい焚き火台ほしいぞ
+short_slug: bundok-lotusplus-yoizo
 lastUpdated: 2025-06-04
 published: 2025-06-03
 ---

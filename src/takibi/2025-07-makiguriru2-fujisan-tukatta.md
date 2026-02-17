@@ -1,5 +1,6 @@
 ---
 title: 薪グリルⅡ富士山verで早速焚き火してきた
+short_slug: 2025-07-makiguriru2-fujisan-tukatta
 lastUpdated: 2025-07-15
 published: 2025-07-14
 tags:

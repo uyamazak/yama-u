@@ -1,5 +1,6 @@
 ---
 title: 枝で焚火オフ会メンバー募集
+short_slug: eda-nakama-bosyu
 lastUpdated: 2025-06-04
 published: 2025-06-01
 tags:

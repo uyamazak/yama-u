@@ -1,5 +1,6 @@
 ---
 title: 拾った枝、すぐに燃やしちゃもったいない、乾かそう
+short_slug: hirotttesugu-ha-mottainai
 lastUpdated: 2025-07-03
 published: 2025-06-03
 tags:

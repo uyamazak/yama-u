@@ -1,5 +1,6 @@
 ---
 title: アルペン アルミユニットテーブル88が届いた
+short_slug: 2025-10-alpen-alumi-unit-table-88-katta
 lastUpdated: 2025-10-28 19:20:00
 published: 2025-10-28 19:20:00
 ---

@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第6話 女子ってめんどくさい 感想 すべてを見通す五反田
+short_slug: 2025-08-busu-ni-hanataba-06
 lastUpdated: 2025-08-14 19:15:00
 published: 2025-08-14 19:15:00
 description: すべてを見通す五反田。お互いに斜め上の花と陽介。ミンミンゼミ

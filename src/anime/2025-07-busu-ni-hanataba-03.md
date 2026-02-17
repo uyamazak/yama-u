@@ -1,5 +1,6 @@
 ---
 title: 「ブスに花束を。」アニメ第3話 喪女と高嶺の花 感想
+short_slug: 2025-07-busu-ni-hanataba-03
 lastUpdated: 2025-07-19 15:15:00
 published: 2025-07-19 15:15:00
 tags:

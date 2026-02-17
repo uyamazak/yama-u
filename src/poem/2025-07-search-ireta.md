@@ -1,5 +1,6 @@
 ---
 title: サイト内検索をvitepress-plugin-pagefindで入れた
+short_slug: 2025-07-search-ireta
 lastUpdated: 2025-07-19 16:00:00
 published: 2025-07-19 16:00:00
 tags:

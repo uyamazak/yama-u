@@ -1,5 +1,6 @@
 ---
 title: アニメ「ブスに花束を。」第1話感想
+short_slug: 2025-07-busu-ni-hanataba
 lastUpdated: 2025-07-10 
 published: 2025-07-10
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 秋の焚火でマルタイ棒ラーメンと肉を食べる
+short_slug: 2025-10-aki-marutai-bouramen
 lastUpdated: 2025-10-06 19:00:00
 published: 2025-10-06 19:00:00
 ---

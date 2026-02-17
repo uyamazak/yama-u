@@ -1,5 +1,6 @@
 ---
 title: 座ることは体に悪い、立つかうんこ座り。高級椅子はむしろ健康に悪い
+short_slug: 2025-08-suwaru-aku
 lastUpdated: 2025-08-20 
 published: 2025-08-20
 ---

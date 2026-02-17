@@ -1,5 +1,6 @@
 ---
 title: ブサメンガチファイター アニメ第3話 勇者ガチバーニング感想
+short_slug: 2025-07-busamen-gachi-fighter-03
 lastUpdated: 2025-07-23 09:40:00
 published: 2025-07-22 19:34:00
 description: 勇者アルディーン！バナナはおやつに入るんだろうか

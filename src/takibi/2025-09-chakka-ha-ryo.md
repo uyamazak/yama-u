@@ -1,5 +1,6 @@
 ---
 title: 焚火の着火失敗、無料の着火剤なら物量で解決できるかも
+short_slug: 2025-09-chakka-ha-ryo
 lastUpdated: 2025-09-26 19:00:00
 published: 2025-09-26 19:00:00
 tags:

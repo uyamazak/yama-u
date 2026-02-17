@@ -1,5 +1,6 @@
 ---
 title: クスノキの枯れ枝は遊びの焚火に最適かもしれない
+short_slug: 2025-11-kusunokitakibi
 lastUpdated: 2025-11-28 19:00:00
 published: 2025-11-28 19:00:00
 ---

@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第6話「その青をみつめて」感想 ついにサファイア産地にたどり着く
+short_slug: 2025-08-rurinohouseki-06
 lastUpdated: 2025-08-13 19:45:00
 published: 2025-08-13 19:45:00
 description: サファイア産地の特定と青龍伝承とのつながり

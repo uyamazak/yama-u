@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第21話「バカンスは討伐とともに」感想
+short_slug: 2025-12-tondemoskill2-21
 lastUpdated: 2025-12-05 19:15:00
 published: 2025-12-05 19:15:00
 tags:

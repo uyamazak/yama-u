@@ -1,5 +1,6 @@
 ---
 title: 焚き火と薪ストーブ
+short_slug: takibi-to-maki-stove
 lastUpdated: 2025-06-02
 published: 2025-06-02
 ---

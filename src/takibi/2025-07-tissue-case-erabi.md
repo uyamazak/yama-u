@@ -1,5 +1,6 @@
 ---
 title: キャンプ用ペーパータオル用ティッシュケースを選ぶ「オレゴニアンキャンパーボックスティッシュケース」
+short_slug: 2025-07-tissue-case-erabi
 lastUpdated: 2025-07-08 
 published: 2025-07-08
 ---

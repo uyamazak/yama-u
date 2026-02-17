@@ -1,4 +1,5 @@
 ---
+short_slug: index
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 

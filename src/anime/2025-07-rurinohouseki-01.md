@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第1話「はじめての鉱物採集」感想
+short_slug: 2025-07-rurinohouseki-01
 lastUpdated: 2025-07-16 
 published: 2025-07-16
 tags:

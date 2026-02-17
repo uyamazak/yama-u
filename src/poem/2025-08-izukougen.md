@@ -1,5 +1,6 @@
 ---
 title: 静岡県の伊豆高原、大室山へ行ってきた
+short_slug: 2025-08-izukougen
 lastUpdated: 2025-08-05 12:30:00
 published: 2025-08-05 12:30:00
 description: 静岡県の伊東市、伊豆高原で大室山、伊豆シャボテン動物公園、一碧湖へ

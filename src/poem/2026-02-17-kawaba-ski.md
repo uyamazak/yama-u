@@ -1,5 +1,6 @@
 ---
 title: 群馬県の川場スキー場が良い
+short_slug: 2026-02-17-kawaba-ski
 published: 2026-02-17 21:33:00
 lastUpdated: 2026-02-17 21:33:00
 description: 関越道沼田ICから近い川場スキー場は立体駐車場で便利な上に雪もいい

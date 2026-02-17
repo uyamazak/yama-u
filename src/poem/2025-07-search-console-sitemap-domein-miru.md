@@ -1,5 +1,6 @@
 ---
 title: Google Search Consoleのサイトマップはドメインで差別する
+short_slug: 2025-07-search-console-sitemap-domein-miru
 lastUpdated: 2025-07-10 
 published: 2025-07-10
 tags:

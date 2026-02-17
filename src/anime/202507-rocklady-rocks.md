@@ -1,5 +1,6 @@
 ---
 title: アニメ「ロックは淑女の嗜みでして」感想
+short_slug: 202507-rocklady-rocks
 lastUpdated: 2025-07-01
 published: 2025-07-01
 ---

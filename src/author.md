@@ -1,5 +1,6 @@
 ---
 title: 著者 - やまユー
+short_slug: author
 published: 2025-07-11
 lastUpdated: 2025-07-11
 ---

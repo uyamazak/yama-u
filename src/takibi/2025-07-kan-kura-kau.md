@@ -1,5 +1,6 @@
 ---
 title: サーモスの保冷缶ホルダー350mlを買った
+short_slug: 2025-07-kan-kura-kau
 lastUpdated: 2025-07-03
 published: 2025-07-03
 ---

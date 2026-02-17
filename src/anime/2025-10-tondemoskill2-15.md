@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第15話「三つ星確定地竜ステーキ」感想 ヴィアンカかわいい
+short_slug: 2025-10-tondemoskill2-15
 lastUpdated: 2025-10-22 19:15:00
 published: 2025-10-22 19:15:00
 tags:

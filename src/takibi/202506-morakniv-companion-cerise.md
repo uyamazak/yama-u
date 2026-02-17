@@ -1,5 +1,6 @@
 ---
 title: モーラナイフ コンパニオン 限定色セリーズを購入
+short_slug: 202506-morakniv-companion-cerise
 lastUpdated: 2025-06-26
 published: 2025-06-26
 ---

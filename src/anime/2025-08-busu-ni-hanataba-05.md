@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第5話 女子ってわかんない 感想
+short_slug: 2025-08-busu-ni-hanataba-05
 lastUpdated: 2025-08-05 19:15:00
 published: 2025-08-05 19:15:00
 description: 上野くんだけは絶対無理からのMAX崇メー

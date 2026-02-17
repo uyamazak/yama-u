@@ -1,5 +1,6 @@
 ---
 title: 焚火用メガネにサウナ用がいいかも
+short_slug: 2025-09-sauna-megane-tukaerukamo
 lastUpdated: 2025-09-18 19:00:00
 published: 2025-09-18 19:00:00
 ---

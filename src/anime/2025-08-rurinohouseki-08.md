@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第8話「黄昏色のエレジー」感想 瑠璃と硝子の距離が縮まる
+short_slug: 2025-08-rurinohouseki-08
 lastUpdated: 2025-08-25 19:05:00
 published: 2025-08-25 19:05:00
 description: 瑠璃と硝子がイチャラブ展開、大きすぎて入れない穴

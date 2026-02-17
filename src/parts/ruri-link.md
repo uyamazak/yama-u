@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 関連リンク
+short_slug: ruri-link
 lastUpdated: 2025-09-02 19:15:00
 published: 2025-9-02 19:15:00
 ---

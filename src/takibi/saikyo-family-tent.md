@@ -1,5 +1,6 @@
 ---
 title: ぼくが選んだ最強のコスパファミリーテント PYKES PEAK パーティードームテント
+short_slug: saikyo-family-tent
 lastUpdated: 2025-06-02
 published: 2025-06-02
 ---

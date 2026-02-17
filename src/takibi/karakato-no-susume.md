@@ -1,5 +1,6 @@
 ---
 title: 金属アレルギー持ちにもおすすめUNIFLAMEのカラカトシリーズ
+short_slug: karakato-no-susume
 lastUpdated: 2025-06-05
 published: 2025-06-05
 tags:

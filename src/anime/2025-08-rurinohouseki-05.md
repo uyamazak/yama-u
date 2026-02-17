@@ -1,5 +1,6 @@
 ---
 title: 瑠璃の宝石 アニメ 第5話「見える世界、見えざる世界」感想
+short_slug: 2025-08-rurinohouseki-05
 lastUpdated: 2025-08-05 19:45:00
 published: 2025-08-05 19:45:00
 description: 研究の一休みとして、海岸で瑪瑙取りと、蛇紋岩と砂白金を見つけた回

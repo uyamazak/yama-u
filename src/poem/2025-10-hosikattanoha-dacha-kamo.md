@@ -1,5 +1,6 @@
 ---
 title: 欲しかったのはダーチャかもしれない
+short_slug: 2025-10-hosikattanoha-dacha-kamo
 lastUpdated: 2025-10-30 19:00:00
 published: 2025-10-30 19:00:00
 ---

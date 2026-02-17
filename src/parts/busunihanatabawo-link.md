@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。関連リンク
+short_slug: busunihanatabawo-link
 lastUpdated: 2025-09-02 19:15:00
 published: 2025-9-02 19:15:00
 ---

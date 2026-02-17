@@ -1,5 +1,6 @@
 ---
 title: とんでもスキルで異世界放浪メシ2 第14話「地竜解体承ります」感想
+short_slug: 2025-10-tondemoskill2-14
 lastUpdated: 2025-10-15 19:15:00
 published: 2025-10-15 19:15:00
 tags:

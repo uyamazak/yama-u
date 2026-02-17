@@ -1,5 +1,6 @@
 ---
 title: ブスに花束を。アニメ第7話 進め！夏休み感想
+short_slug: 2025-08-busu-ni-hanataba-07
 lastUpdated: 2025-08-18 19:15:00
 published: 2025-08-18 19:15:00
 description: 新橋ががんばるリア充な夏休み。
