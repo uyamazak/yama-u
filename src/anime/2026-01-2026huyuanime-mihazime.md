@@ -1,5 +1,6 @@
 ---
 title: 2026年冬アニメ　1月20日の感想
+short_slug: 2026-01-2026huyuanime-mihazime
 lastUpdated: 2026-01-20 19:00:00
 published: 2026-01-20 19:00:00
 ---

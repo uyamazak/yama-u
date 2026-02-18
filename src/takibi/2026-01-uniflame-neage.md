@@ -1,5 +1,6 @@
 ---
 title: 2026年2月2日(月)にUNIFLAME製品が値上げ
+short_slug: 2026-01-uniflame-neage
 lastUpdated: 2026-01-06 19:00:00
 published: 2026-01-06 19:00:00
 ---

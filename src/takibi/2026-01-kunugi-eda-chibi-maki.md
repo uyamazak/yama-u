@@ -1,5 +1,6 @@
 ---
 title: クヌギの剪定枝でチビ薪作り
+short_slug: 2026-01-kunugi-eda-chibi-maki
 lastUpdated: 2026-01-08 19:00:00
 published: 2026-01-08 19:00:00
 ---
