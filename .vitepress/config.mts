@@ -1,7 +1,7 @@
 import { defineConfig, createContentLoader } from 'vitepress'
 import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 
-import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd, itemListJsonLd } from './utils.mts'
+import { getOrderdPosts, getNextAndPrevPost, breadCrumbsJsonLd, articleJsonLd, itemListJsonLd, getRandomMonthlyEmoji } from './utils.mts'
 // https://vitepress.dev/reference/site-config
 export const categories = [
   { text: '🔥焚き火', link: '/takibi/' },
@@ -57,12 +57,12 @@ export default async () => {
       // https://vitepress.dev/reference/default-theme-config
       nav: [
         { text: '🏡ホーム', link: '/' },
-        { text: '🍁このサイトについて', link: '/about.html' },
+        { text: `${getRandomMonthlyEmoji()}このサイトについて`, link: '/about.html' },
         ...categories
       ],
       sidebar: [
         {
-          text: '🍁このサイトについて',
+          text: `${getRandomMonthlyEmoji()}このサイトについて`,
           link: '/about.html',
         },
         {
