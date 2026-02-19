@@ -1,8 +1,10 @@
 ---
 title: ユニフレーム 焚火台 薪グリルSOLOを1100円で買った
 short_slug: 2026-01-maki-guriru-solo-1100en
-lastUpdated: 2026-01-28 19:00:00
 published: 2026-01-28 19:00:00
+lastUpdated: 2026-01-28 19:00:00
+tags:
+  - UNIFLAME
 ---
 
 2026/1/28、薪グリルⅡユーザーですでに持っているが、SOLOが1100円で売っていたので買ってしまった。
