@@ -35,7 +35,7 @@ collections:
       - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD", required: false}
       - {label: "説明", name: "description", widget: "text", required: false}
       - {label: "タグ", name: "tags", widget: "list", required: false}
-      - {label: "本文", name: "body", widget: "markdown"}
+      - {label: "本文", name: "body", widget: "markdown", default_view: "markdown"}
     sortable_fields:
       - "published"
       - "lastUpdated"
@@ -54,7 +54,7 @@ collections:
       - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD", required: false}
       - {label: "説明", name: "description", widget: "text", required: false}
       - {label: "タグ", name: "tags", widget: "list", required: false}
-      - {label: "本文", name: "body", widget: "markdown"}
+      - {label: "本文", name: "body", widget: "markdown", default_view: "markdown"}
     sortable_fields:
       - "published"
       - "lastUpdated"
@@ -72,7 +72,7 @@ collections:
       - {label: "更新日", name: "lastUpdated", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DD", required: false}
       - {label: "説明", name: "description", widget: "text", required: false}
       - {label: "タグ", name: "tags", widget: "list", required: false}
-      - {label: "本文", name: "body", widget: "markdown"}
+      - {label: "本文", name: "body", widget: "markdown", default_view: "markdown"}
     sortable_fields:
       - "published"
       - "lastUpdated"
