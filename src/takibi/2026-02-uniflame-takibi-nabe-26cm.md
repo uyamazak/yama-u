@@ -5,6 +5,7 @@ published: 2026-02-28
 lastUpdated: 2026-02-28
 tags:
   - UNIFLAME
+  - 焚き火鍋
 ---
 <YouTube id="xfyiAbDu1VU" />
 
