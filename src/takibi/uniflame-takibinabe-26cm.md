@@ -5,6 +5,7 @@ published: 2026-02-19
 lastUpdated: 2026-02-19
 tags:
   - UNIFLAME
+  - 焚き火鍋
 ---
 ずっと欲しかったユニフレームの焚き火鍋26cmを購入した。
 
