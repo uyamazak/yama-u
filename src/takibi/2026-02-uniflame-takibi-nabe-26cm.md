@@ -7,7 +7,7 @@ tags:
   - UNIFLAME
   - 焚き火鍋
 ---
-<YouTube id="xfyiAbDu1VU" />
+<YouTube id="xfyiAbDu1VU" aspect="9:16" />
 
 1月はタイミングが合わず焚き火できなかったので、およそ2ヶ月ぶりの焚き火。
 
