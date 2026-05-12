@@ -1,5 +1,5 @@
 ---
-title: UNIFLAME 焚き火鍋26cm　リッド
+title: UNIFLAME 焚き火鍋26cm　リッド購入
 short_slug: 2026-05-uniflame-takibinabe-riddo
 published: 2026-05-12
 lastUpdated: 2026-05-12
