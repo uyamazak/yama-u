@@ -1,5 +1,5 @@
 ---
-title: 桜の毛虫をヤモリの餌にするために育てる
+title: 桜の毛虫 アメリカシロヒトリをヤモリの餌にするために育てる
 short_slug: 202609-america-siro-hitori
 published: 2026-09-30
 lastUpdated: 2026-09-30
