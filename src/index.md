@@ -5,8 +5,8 @@ layout: home
 
 hero:
   name: やまユー
-  text: 焚火とアニメとポエムの<br>ホームページ
-  tagline: 拾った枝を丁寧丁寧丁寧に薪にして焚火する
+  text: 枝で焚火する<br>ホームページ
+  tagline: 落ちてる枝は宝物
   image:
     light: /img/20250907-sanma.jpg
     dark: /img/20250907-sanma.jpg
